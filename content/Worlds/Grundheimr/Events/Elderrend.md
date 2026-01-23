@@ -17,10 +17,8 @@ Elderrend was a series of cataclysmic magical explosions that devastated [[Sundr
 - Flora & Fauna: Many species were eradicated or displaced; mutated creatures and warped plant growth now inhabit rift zones.
 - Society: Survivors established fortified settlements; trade and travel were disrupted, and fear of anomalies spread widely.
 
-#### O
-Elderrend shares notable similarities with [[Svartdomr]], suggesting recurring cycles of arcane disasters in [[Sundralith]].
-
-#### Legacy
-The scars of Elderrend endure: unstable rifts and lingering magic continue to shape the land, its inhabitants, and the study of arcane forces.
+#### Aftermath
+- Elderrend shares notable similarities with [[Svartdomr]], suggesting recurring cycles of arcane disasters in [[Sundralith]].
+- The scars of Elderrend endure: unstable rifts and lingering magic continue to shape the land, its inhabitants, and the study of arcane forces.
 
 

@@ -3,6 +3,9 @@ title: N DnD Player Site
 publish: true
 ---
 
+[[index]]
+
+
 > [!HINT] Shadows Over Sundralith
 >A year has passed since [[Elderrend]] shook [[Sundralith]] to its foundations. The land slowly heals: forests push through ash-strewn valleys, rivers run clearer, and scattered settlements have begun to thrive. Amid this fragile recovery, hope and resilience pulse through the survivors, and the people dare to dream of stability once more.
 >
