@@ -1,6 +1,8 @@
 ---
-Publish: "True"
+publish: true
 ---
+
+
 
 ## Overview
 - System & Style: D&D 5E (2024) + Rule of Cool; PCs and NPCs follow the same rules.
