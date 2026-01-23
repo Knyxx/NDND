@@ -4,7 +4,7 @@ aliases:
 tags:
   - Society
   - Order
-  - [ ] Ember
+  - Ember
 ---
 Society | Order
 
