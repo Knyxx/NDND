@@ -73,7 +73,10 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+      Plugin.ExplicitPublish() // Only publishes notes with publish: true
+      // Plugin.RemoveDrafts(), // Optionally remove notes with 'draft: true'
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
