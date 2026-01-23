@@ -6,17 +6,4 @@ publish: true
 
 ## Player Reference Site
 
-### [[Session Recaps]]
-
 ### [[House Rules]]
-
-### People
-[[PC]]
-[[NPC]]
-
-### [[Items]]
-
-### [[Quests]]
-
-
-
