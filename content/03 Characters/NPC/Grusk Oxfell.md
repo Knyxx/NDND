@@ -1,0 +1,23 @@
+---
+aliases:
+  - Grusk
+tags:
+  - NPC
+  - Orc
+  - Oxfell
+---
+NPC | [[Orc]] | [[Fighter]]
+
+Grusk, an [[Orc]] farmer, first took up arms to protect his people when [[Svartdomr]] brought a [[Minotaur Warlord]] to their lands.
+
+He gathered a warband and hunted the beast for three days.
+
+As [[Paladin King Ada]] arrived, ready to strike, he witnessed Grusk — the only survivor — driving the creature’s own broken horn into its heart.
+
+In honor of the fallen, [[Paladin King Ada|Ada]] bestowed upon him the name Oxfell and declared him _Storm-Warden_.
+
+Grusk became a trusted friend and respected general, bearing [[Storm Disk]].
+
+After [[Paladin King Ada|Ada]] passed, he went on to found the Oxfell Clan.
+
+
