@@ -2,6 +2,7 @@
 tags:
   - Event
   - Catastrophe
+publish: true
 ---
 Event | Catastrophe | [[_timeline#998 AD|998 AD]]
 
@@ -16,7 +17,7 @@ Elderrend was a series of cataclysmic magical explosions that devastated [[Sundr
 - Flora & Fauna: Many species were eradicated or displaced; mutated creatures and warped plant growth now inhabit rift zones.
 - Society: Survivors established fortified settlements; trade and travel were disrupted, and fear of anomalies spread widely.
 
-#### Historical Context
+#### O
 Elderrend shares notable similarities with [[Svartdomr]], suggesting recurring cycles of arcane disasters in [[Sundralith]].
 
 #### Legacy

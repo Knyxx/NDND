@@ -2,6 +2,7 @@
 tags:
   - Location
   - Continent
+publish: true
 ---
 Location | Continent
 

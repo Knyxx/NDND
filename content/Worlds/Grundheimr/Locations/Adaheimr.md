@@ -8,7 +8,7 @@ Location | Region
 Adaheimr _(AH-dah-hame)_ — “Home/realm of Ada”
 
 #### Overview
-Named for [[Paladin King Ada]] who [[Adaheimr Treaty|settled]] the region following [[Svartdomr]].
+Named for [[Paladin King Ada]] who settled the region, bring the warring clans to peace with the [[Adaheimr Treaty]] following [[Svartdomr]].
 Fjorded and mountainous northern region of [[Sundralith]].
 
 #### Geography & Environment
@@ -28,7 +28,8 @@ Fjorded and mountainous northern region of [[Sundralith]].
 
 #### Points of Interest & History
 - [[Adahowe]] – resting place of [[Paladin King Ada]]
-- [[Isvik]] – coastal fishing & shipbuilding hub
+- [[Crossroads Encampment]] - mining camp converted to small town and refugee
+- [[Isvik]] – coastal fishing & shipbuilding hub (destroyed)
 - [[Kaldheim]] – fortified capital city
 - Historical Events: [[Svartdomr]] (CY), [[Adaheimr Treaty]] (0-6 AD), [[Elderrend]] (998 AD)
 
