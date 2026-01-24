@@ -7,6 +7,8 @@ tags:
   - Ashwarden
 publish: true
 ---
+![[Moko.jpg|250]]
+
 [[Ashwardens|Ashwarden]] in training.
 
 Apprenticed to [[Vargas]].
