@@ -9,7 +9,7 @@ tags:
   - EmberOrder
 publish: true
 ---
-![[Tor Emberdelve.jpg|portrait]]
+![[Tor Emberdelve.jpg|250 ]]
 
 #### Names & Titles
 - Tor Emberdelve
