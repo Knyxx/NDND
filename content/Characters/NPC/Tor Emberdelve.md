@@ -5,8 +5,6 @@ aliases:
 tags:
   - NPC
   - Dwarf
-  - Emberdelve
-  - EmberOrder
 publish: true
 ---
 ![[Tor Emberdelve.jpg|250 ]]
