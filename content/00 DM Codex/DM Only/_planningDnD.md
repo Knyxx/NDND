@@ -25,6 +25,39 @@ tags:
 
 
 
+## People plans
+- [[Tor Emberdelve]]
+	- Missing grandfather: [[Mor Emberdelve]]
+	- [[Ember Order]] Bronze member
+		- Being watched by [[Askali]]
+	- Key Items
+		- Field journal of archaeological notes
+		- Explorer’s tools and relic-handling equipment
+		- Bronze medallion of [[Ember Order]]
+	- Connections
+		- Family:
+			- Father: [[Dor Emberdelve]] _deceased_
+				- Grandfather: [[Mor Emberdelve]] _missing_
+					- Ancestor: [[Dain Emberdelve]] _deceased_
+		- [[Ember Order]] _Bronze_
+	- Motivations
+		- Serving [[Ember Order]], protecting the world from [[Chaos Energy]]
+		- Investigating his missing grandfather, [[Mor Emberdelve]]
+		- Recovering lost knowledge and ancient relics
+	- Personality
+		- Methodical and curious, driven by knowledge and duty
+		- Loyal to family and the Ember Order’s cause
+		- Determined, patient, and cautious in the face of danger
+		- Possesses a quiet intensity, often reflecting on history and legacy
+- [[Askali]]
+	- [[Ember Order]] Tin member
+- [[Mor Emberdelve]], [[Gromash Oxfell]], partners trying to stop [[Paladin King Ada]]'s tomb being reopened with the seals
+- 
+
+
+
+
+
 
 
 Excalidraw

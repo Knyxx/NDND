@@ -5,6 +5,7 @@ tags:
   - Human
   - Paladin
   - Ashwarden
+publish: true
 ---
 [[Ashwardens|Ashwarden]] in training.
 
