@@ -20,7 +20,7 @@ publish: true
 - Use a clear signal to participate (raise hand, message, etc.).
 
 ### Limits
-- Absolute no: Sexual assault, drugging (see [[#Poison Vials#Usage]]).
+- Absolute no: Sexual assault, drugging (see [[#Poison Vials]]).
 - Off-screen only: Severe mental distress
 
 > [!ATTENTION] Lethality
