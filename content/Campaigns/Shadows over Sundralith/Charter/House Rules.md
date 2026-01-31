@@ -3,134 +3,327 @@ publish: true
 ---
 
 ## Overview
-- System & Style: D&D 5E (2024) + Rule of Cool; PCs and NPCs follow the same rules.
-- Story Focus: Immersive, consequence-driven; death matters, danger is real, choices have lasting impact.
-- Tone: Heroic but gritty; triumph is earned, not guaranteed.
-- Gameplay: Mix of combat, roleplay, exploration, and mystery; epic boss-style encounters encouraged.
-- Sessions: Once per month, scheduled by group vote.
-- Etiquette: Cameras on if possible; minimize interruptions; signal to participate.
-- DM Role: Opens the scene; no recaps; notes/discussion encouraged between sessions.
-- Communication: Prefer PC-to-PC; limit out-of-scene clarification.
-- PvP: Outside combat requires mutual consent.
 
-## Limits
-- Hard no: Sexual assault, drugging
+### System
+- Rules: D&D 5e (2024) + Rule of Cool.
+- Minimal deviation; house rules and homebrew used only for quality of life and flavour.
+- PC and NPC follow same rules and restrictions.
+- World: Consequence-driven; survival and triumph must be earned.
+- Storylines: Combat, Roleplay, Exploration, and Mystery.
+- PVP: Only with mutual consent outside of combat; player actions in encounters may impact other players.
+
+### Sessions
+- Frequency: One session per month, scheduled by group vote.
+- DM sets the scene; no detailed recap-players encouraged to share notes and reference the GitHub page.
+- Camera's on if possible.
+- Minimize interruptions.
+- Use a clear signal to participate (raise hand, message, etc.).
+
+### Limits
+- Absolute no: Sexual assault, drugging (see [[#Poison Vials#Usage]]).
 - Off-screen only: Severe mental distress
 
-## Character Creation
-- Level 3, 200G, common gear (_Recommended_: Explorer’s Pack 10G)
-- Stats & HP rolled together as a party
-- HP is rolled for level changes; players may accept or defer
-- Track coin weight, ammunition, and carrying capacity
+> [!ATTENTION] Lethality
+> This system is intentionally lethal. Characters are expected to die.
 
-## Weapon Mastery: Light [PHB 5e 2024](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Light)
-- When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don’t add your ability modifier to the extra attack’s damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don’t add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+---
 
-## Weapon Mastery: Nick [PHB 5e 2024](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#Nick)
-- When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
+## Characters
 
-## Feat: Two-Weapon Fighting [PHB 5e 2024](https://www.dndbeyond.com/sources/dnd/phb-2024/feats#TwoWeaponFighting)
-- When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack if you aren’t already adding it to the damage.
+### New Characters
+- Starting Level: 3
+- Starting Gold: 200 G
+- Can purchase equipment before joining the party.
+	- *Recommended: Explorer’s Pack (10 G)*
 
-## Feat: Dual Wielder [PHB 5e 2024](https://www.dndbeyond.com/sources/dnd/phb-2024/feats#DualWielder)
-- **Ability Score Increase**. Increase your Strength or Dexterity score by 1, to a maximum of 20.
-- **Enhanced Dual Wielding**. When you take the Attack action on your turn and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the Two-Handed property. You don’t add your ability modifier to the extra attack’s damage unless that modifier is negative.
-- **Quick Draw**. You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
+### Advancement
+- Level Up Type: By gaining Experience (XP).
+- Hit Points: Rolled together with the party.
+- Ability Scores: Rolled together with the party.
+- Carry Weight: Tracked for Encumbrance.
+- Coin Weight: Tracked.
 
-## Ability Checks
-- Rolled only when called for or confirmed by the DM
-	- Natural 20: Automatic success
-	- Natural 1: Automatic fail
+### Level Up
+- PCs level up during a Long Rest.
+- Roll all Hit Dice for the new level(s).
+	- *Example: A Level 3 PC reaching Level 4 rolls 4 Hit Dice.*
+- Players may accept the result or delay levelling; no XP is lost.
+- Delayed levels can be attempted at the next Long Rest.
 
-## Bonus Stacking
-- Only bonuses from different, compatible sources stack
+---
 
-## [Proficiency and Expertise](https://www.dndbeyond.com/sources/dnd/phb-2024/playing-the-game#Proficiency) [5e]
+## Gameplay
+
+### Ability Checks & Difficulty
+- Rolls occur only when called for or confirmed by the DM.
+- Success: Result meets or exceeds the Difficulty Class (DC).
+	- Natural 20: Automatic success.
+	- Natural 1: Automatic failure.
+- DM Rolls: At a player’s request, the DM may roll checks in secret for immersion or uncertainty.
+- Bonus Stacking: Bonuses from the same named source do not stack unless explicitly stated.
+
+### Death Saves
+Players of dying PCs are muted (except for reactions affecting others).
+- DM rolls Death Saves in secret:
+	- Natural 20: Regain 1 HP.
+	- Success: Mark one success.
+	- Failure: Mark one failure.
+	- Natural 1: Counts as two failures.
+	- Three successes: Stabilized at 0 HP.
+	- Three failures: Death.
+
+### Exhaustion
+- Dropping to 0 HP immediately causes 1 level of Exhaustion (in addition to other effects).
+- Exhaustion from Overextension may only be reduced by 1 level per Long Rest.
+
+### Overextension
+A character may push beyond normal limits to use a spell, ability, or action without expending the required slot, charge, or use.
+- Overextension may only be used for spells or abilities the character is normally capable of using.
+- A character may Overextend only once per Long Rest, regardless of source.
+- A character cannot Overextend if doing so would exceed Exhaustion level 6 (Death).
+- Each use leaves a lingering supernatural mark, which the DM may employ as a narrative consequence.
+- Exhaustion gained from Overextension follows the standard Exhaustion rules (5e 2024).
+
+| Spell Level / Ability         | Exhaustion | Effect (5e 2024)                |
+| ----------------------------- | ---------- | ------------------------------- |
+| 1st / Short Rest reset        | 1          | Disadvantage on ability checks  |
+| 2nd-3rd / multi-use long rest | 2          | Speed halved                    |
+| 4th / single-use long rest    | 3          | Disadvantage on attacks & saves |
+| 5th-6th                       | 4          | HP maximum halved               |
+| 7th-8th                       | 5          | Speed reduced to 0              |
+| 9th                           | 6          | Death                           |
+
+### Resting
+Unless interrupted by danger, stress, or hostile conditions, characters may take the following rests.
+
+#### Long Rest
+- Duration: 8 uninterrupted hours (≥6 sleeping, ≤2 light activity).
+- Allowed light activities:
+	- Eating or drinking
+	- Standing watch
+	- Reading, writing, or quiet study
+	- Light equipment maintenance
+	- Spell preparation or meditation
+	- Casual conversation or reflection
+	- Foraging for Ingredients
+	- Quick crafting: Phials, Poisons, Snacks, Meals
+- Strenuous activity (combat, forced marching, intense exertion) interrupts a Long Rest.
+
+#### Short Rest
+- Duration: 1 uninterrupted hour.
+- Allowed light activities:
+	- Eating or drinking
+	- Tending minor wounds
+	- Equipment maintenance
+	- Quiet conversation
+	- Reviewing notes, maps, or plans
+	- Quick crafting: Phials, Poisons, Snacks, Meals
+- Strenuous activity interrupts a Short Rest.
+
+---
+
+## Combat
+
+### Attack Roll
+- Critical Hit (Natural 20): Deal maximum damage plus normal dice and modifiers.
+- Critical Miss (Natural 1): Attack fails; DM may impose additional consequence.
+
+### Armor Class
+- Attack = AC: Attack grazes, half damage (rounded down).
+- Attack > AC: Attack hits for full damage.
+
+### Combat Timers
+- Pre-combat discussion: Max 2 minutes.
+- Player turn duration: 60 seconds per turn.
+
+### Flanking
+- If two allies are within 5 feet of the same target, you gain Advantage on attacks against that target.
+
+### Loot
+- Key items: DM discretion.
+- General loot: Shared; decisions by party consensus.
+
+### Experience (XP)
+- XP split evenly among participating PCs.
+- NPC allies who meaningfully contribute (alive or dead) share in XP.
+
+---
+
+## Crafting & Consumables
+
+### Foraging
+Search for ingredients in the surrounding area.
+Only simple items found, type may be specified for flavour, items named TIER Ingredient.
+*Example: Uncommon Ingredient.* 
+When no viable ingredients exist, this is immediately obvious and no time cost.
+- Duration: 1 hour
+- Check: 1d20
+	- 1: Ingredient tier -1 (cannot go below Common)
+	- 20: Ingredient tier +1
+- Yield: 1d4 ingredients per hour
+- Maximum ingredient tier is determined by location
+
+
+### Herbal Phials
+Herbal Phials are quick-use consumables designed for rapid deployment in combat.
+- Crafting and Usage modified by your Proficiency with Herbalism Kit.
+
+#### Crafting
+- Requirements:
+	- Herbalism Kit.
+	- Ingredient (Foraged).
+- Crafting Time: 1 hour per batch.
+- Yield: 1d4 Phials or Proficiency Bonus (PB).
+
+#### Usage
+- Can be used as an Action, Bonus Action, and once per turn, as a Free Action.
+
+| Rarity    | Tier     | Health Recovery | Temp Health |
+| --------- | -------- | --------------- | ----------- |
+| Common    | Weak     | 2d4 + PB        | 1d4 + PB    |
+| Uncommon  | Minor    | 2d6 + PB        | 1d6 + PB    |
+| Rare      | Standard | 2d8 + PBx2      | 1d8 + PBx2  |
+| Very Rare | Strong   | 2d10 + PBx2     | 1d10 + PBx2 |
+| Legendary | Potent   | 2d12 + PBx3     | 1d12 + PBx3 |
+| Artifact  | Mythic   | 2d20 + PBx3     | 1d20 + PBx3 |
+
+
+### Snacks
+Snacks are small consumables that provide minor, immediate benefits.
+- Crafting and Usage are modified by your Proficiency with Cooking Utensils.
+
+#### Crafting
+- Requirements:
+	- Cooking Utensils.
+	- Ingredient (Foraged).
+- Crafting Time: 1 hour per batch.
+- Yield: 1d4 Snacks or Proficiency Bonus (PB).
+
+#### Usage
+- Can be used as an Action and Bonus Action.
+
+| Rarity    | Tier       | Snack          |
+| --------- | ---------- | -------------- |
+| Common    | Rustic     | 1d4 + PB HP    |
+| Uncommon  | Satisfying | 1d6 + PB HP    |
+| Rare      | Refined    | 1d8 + 2×PB HP  |
+| Very Rare | Exquisite  | 1d10 + 2×PB HP |
+| Legendary | Masterwork | 1d12 + 3×PB HP |
+| Artifact  | Legendary  | 1d20 + 3×PB HP |
+
+
+### Meals
+Meals are large, robust consumables that provide lasting benefits.
+- Crafting and Usage modified by your Proficiency with Cooking Utensils.
+
+#### Crafting
+- Requirements:
+	- Cooking Utensils.
+	- Ingredient (Foraged).
+	- Ration.
+- Crafting Time: 1 hour per batch.
+- Yield: 1 Meal per Ingredient + Ration used (multiple Meals can be cooked together)
+
+#### Usage
+- Time to Consume: 15 minutes
+- Provides Advantage on your next Saving Throw
+- Grants temporary bonus AC for the next 6 hours
+
+| Rarity    | Tier       | Meal                       |
+| --------- | ---------- | -------------------------- |
+| Common    | Rustic     | 2d4 + PB Temp Health (THP) |
+| Uncommon  | Satisfying | 2d6 + PB THP               |
+| Rare      | Refined    | 2d8 + 2×PB THP +1 AC       |
+| Very Rare | Exquisite  | 2d10 + 2×PB THP +1 AC      |
+| Legendary | Masterwork | 2d12 + 3×PB THP +2 AC      |
+| Artifact  | Legendary  | 2d20 + 3×PB THP +2 AC      |
+
+
+### Poison Vials
+Poison Vials are swift, situational consumables, designed to impose temporary conditions or debilitate foes.
+- Can be applied to a weapon or ammunition as an Action or Bonus Action.
+- Crafting and Usage modified by your Proficiency with Poisoner's Kit.
+
+#### Usage
+- Can be used as an Action and Bonus Action.
+
+> [!ATTENTION] Poisons
+> - Poisons must be delivered visibly and contestably: the target has a reasonable opportunity to notice, resist, evade, or respond.
+> - Poisons that rely primarily on deception rather than direct, observable hazard are not allowed.
+> - See [[#Limits]]
+
+| Rarity    | Tier     | Save (CON) |
+| --------- | -------- | ---------- |
+| Common    | Weak     | DC 5 + PB  |
+| Uncommon  | Minor    | DC 8 + PB  |
+| Rare      | Standard | DC 11 + PB |
+| Very Rare | Strong   | DC 14 + PB |
+| Legendary | Potent   | DC 17 + PB |
+| Artifact  | Mythic   | DC 20 + PB |
+
+| Poison Name       | Effect (on failed DC Save)                      |
+| ----------------- | ----------------------------------------------- |
+| Blinding Poison   | Blinded until the start of your next turn       |
+| Beguiling Poison  | Charmed until the start of your next turn       |
+| Deafening Poison  | Deafened until the start of your next turn      |
+| Fear Poison       | Frightened until the start of your next turn    |
+| Disabling Poison  | Incapacitated until the start of your next turn |
+| Paralytic Poison  | Paralyzed until the start of your next turn     |
+| Calcifying Poison | Petrified until the start of your next turn     |
+| Toxic Poison      | Poisoned until the start of your next turn      |
+| Shocking Poison   | Stunned until the start of your next turn       |
+
+---
+
+## Glossary
+
+### Gameplay
+
+#### [Proficiency and Expertise (phb-2024)](https://www.dndbeyond.com/sources/dnd/phb-2024/playing-the-game#Proficiency)
+
 | Level/CR | Proficiency | Expertise |
 | -------- | ----------- | --------- |
 | Up to 4  | +2          | +4        |
 | 5–8      | +3          | +6        |
-| 9–1 2    | +4          | +8        |
+| 9–12     | +4          | +8        |
 | 13–16    | +5          | +10       |
 | 17–20    | +6          | +12       |
 | 21–24    | +7          | +14       |
 | 25–28    | +8          | +16       |
 | 29–30    | +9          | +18       |
 
-## Combat
-- Prep time: 2 minutes
-- Turn limit: 60 seconds
-- Flanking: Two allies within 5 ft. grant Advantage
-- Attack Rolls:
-	- Natural 20: Max damage + roll damage + modifiers
-	- Natural 1: Consequence determined by the DM
-
-## Exhaustion
-- Dropping to 0 HP immediately causes 1 level of Exhaustion
-- Exhaustion caused by Overextension can only be recovered at 1 level per Long Rest
-
-## Overextension
-Push beyond normal limits to use a spell, ability, or action without the necessary slots or uses
-- Only applicable to spells or abilities the character can normally use
-- Cannot push beyond Exhaustion 6 (Death)
-- Can be used once per Long Rest
-- Leaves a mark on the soul
-
-| Spell Level / Ability            | Exhaustion | Effect                          |
-| -------------------------------- | ---------- | ------------------------------- |
-| 1st / Short Rest without healing | 1          | Disadvantage on ability checks  |
-| 2nd-3rd / multi-use long rest    | 2          | Speed halved                    |
-| 4th / single-use long rest       | 3          | Disadvantage on attacks & saves |
-| 5th-6th                          | 4          | HP maximum halved               |
-| 7th-8th                          | 5          | Speed reduced to 0              |
-| 9th                              | 6          | Death                           |
-
-## Death Saves
-- Rolled secretly by the DM
-	- Natural 20: Revive at 1 HP
-	- Success: Stabilized at 0 HP
-	- Natural 1: Counts as two failures
-	- Failure: Death
-
-## Loot
-Key items assigned by the DM.
-
-## XP
-XP is split evenly among all participating party members and helpful NPCs, living or dead.
-
-## Foraging
-PC may search for ingredients in the surrounding area.
-- If no viable ingredients exist, this is immediately obvious
-- Duration: 1 hour
-- Check: 1d20
-	- 1: Ingredient tier -1
-	- 20: Ingredient tier +1
-- Yield: 1d4 ingredients per hour
-- Maximum ingredient tier is determined by location
-
-## Craft Consumables
-Create consumables from raw ingredients using a specialised kit.
-- Craft Time: 1 hour
-- Strength: Determined by ingredient tier (E → S)
-- Tools & Effects:
-	- Alchemist’s Supplies: Enhance, Alter, Escape, Utility
-	- Herbalism Kit: Restore, Fortify, Resist, Stabilise
-	- Poisoner’s Kit: Toxin, Affliction, Disrupt, Degrade
-- Yield: 1d4
-- Proficiency: Cannot roll less than Proficiency Bonus
-
-### Quick Phials
-Phials designed for rapid use in combat.
-- Can be used as an Action, Bonus Action, and once per turn, as a Free Action.
-
-|              | Tool | (E) Weak   | (D) Minor  | (C) Standard | (B) Strong  | (A) Potent  | (S) Mythic  |
-| ------------ | ---- | ---------- | ---------- | ------------ | ----------- | ----------- | ----------- |
-| Health       | H    | 2d4 + 2 HP | 2d6 + 2 HP | 2d8 + 2 HP   | 2d10 + 2 HP | 2d12 + 2 HP | 2d20 + 2 HP |
-| Temp Health  | H    | 1d4 THP    | 1d6 THP    | 1d8 THP      | 1d10 THP    | 1d12 THP    | 1d20 THP    |
-| Poison       | P    |            | 6 sec      |              | 12 sec      |             | 18 sec      |
-| Invisibility | A    |            | 6 sec      |              | 12 sec      |             | 18 sec      |
+#### [Weapon Masteries (phb-2024)](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MasteryProperties)
 
 
+### Feat
 
+#### [Poisoner (phb-2024)]([https://www.dndbeyond.com/feats/1878699-poisoner](https://www.dndbeyond.com/sources/dnd/phb-2024/feats#Poisoner)) [Feat]
+**Ability Score Increase**. Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
+**Potent Poison**. When you make a damage roll that deals Poison damage, it ignores Resistance to Poison damage.
+**Brew Poison**. 
+1. You gain proficiency with the Poisoner’s Kit.
+2. With 1 hour of work using such a kit and expending 50 GP worth of materials, you can create a number of poison doses equal to your Proficiency Bonus.
+3. As a Bonus Action, you can apply a poison dose to a weapon or piece of ammunition.
+	1. Once applied, the poison retains its potency for 1 minute or until you deal damage with the poisoned item, whichever is shorter.
+	2. When a creature takes damage from the poisoned item, that creature must succeed on a Constitution saving throw (DC 8 plus the modifier of the ability increased by this feat and your Proficiency Bonus) or take 2d8 Poison damage and have the Poisoned condition until the end of your next turn.
+See [[#Limits]].
 
+#### Bushman [Feat]
+**Ability Score Increase**. Increase your Constitution or Wisdom by 1, to a maximum of 20.
+**Field Knowledge**. You have advantage on Wisdom (Survival) checks to:
+1. Forage for edible plants and medicinal herbs
+2. Identify natural hazards
+3. Recognize signs of disease or poison exposure
+4. **Bushcraft**.
+	1. You gain proficiency with Herbalism Kits.
+	2. You can use a Herbalism Kit in place of a Healer’s Kit for any feature, action, or item that normally requires one.
+	3. Quick Aid (Reaction): When you or a creature within 5 feet would benefit from a Phial, you may use your reaction to consume or administer it.
+
+#### Hearthkeeper [Feat]
+**Ability Score Increase.** Increase your Dexterity or Wisdom by 1, to a maximum of 20.
+**Culinary Insight**. Advantage on checks to detect spoiled or tainted ingredients, environmental hazards, or subtle signs of illness, poison, or other threats.
+**Kitchen Craft**.
+1. You gain proficiency with Cook’s Utensils.
+2. You can use Cook’s Utensils in place of a Healer’s Kit for any feature, action, or item that normally requires one.
+3. **Quick Snack (Reaction):** You can consume a Snack yourself or feed it to a creature within 5 feet as a reaction. The Snack takes effect with your Proficiency Bonus (PB).
 

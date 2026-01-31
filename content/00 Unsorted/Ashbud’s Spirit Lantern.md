@@ -9,7 +9,7 @@ A simple lantern of wood and thin metal, shaped with delicate elven craftsmanshi
 
 #### Attunement: 
 - Only a member of the Ashbud family can attune.
-- While attuned, the lantern’s spirit follows its bearer, illuminating the way and bolstering allies against fear.
+- While attuned, the lantern’s spirit follows its bearer, illuminating the way and quietly bolstering courage.
 - If separated from the family or damaged, the spirit retreats, and the lantern becomes inert.
 
 #### Properties:
