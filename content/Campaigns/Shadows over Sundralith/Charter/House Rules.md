@@ -60,7 +60,9 @@ publish: true
 	- Natural 20: Automatic success.
 	- Natural 1: Automatic failure.
 - DM Rolls: At a player’s request, the DM may roll checks in secret for immersion or uncertainty.
-- Bonus Stacking: Bonuses from the same named source do not stack unless explicitly stated.
+
+### Bonus Stacking
+- Bonuses from the same named source do not stack unless explicitly stated.
 
 ### Death Saves
 Players of dying PCs are muted (except for reactions affecting others).
@@ -125,8 +127,8 @@ Unless interrupted by danger, stress, or hostile conditions, characters may take
 ## Combat
 
 ### Attack Roll
-- Critical Hit (Natural 20): Deal maximum damage plus normal dice and modifiers.
-- Critical Miss (Natural 1): Attack fails; DM may impose additional consequence.
+- Critical Hit (Natural 20): Guaranteed Hit. Deal maximum damage plus normal dice and modifiers.
+- Critical Miss (Natural 1): Guaranteed Miss. DM may impose additional consequence.
 
 ### Armor Class
 - Attack = AC: Attack grazes, half damage (rounded down).
@@ -135,6 +137,14 @@ Unless interrupted by danger, stress, or hostile conditions, characters may take
 ### Combat Timers
 - Pre-combat discussion: Max 2 minutes.
 - Player turn duration: 60 seconds per turn.
+- Consequences for delays in turns (excl. clarifications):
+	- Prompt to hurry up
+	- Initiative drop
+	- Turn loss
+
+> [!INFO] Time Consideration
+> 6 PC vs 4 NPC = 10 minutes per round.
+> Longest fight to date: 3 Undead Bears, 12 rounds.
 
 ### Flanking
 - If two allies are within 5 feet of the same target, you gain Advantage on attacks against that target.
@@ -190,11 +200,11 @@ Herbal Phials are quick-use consumables designed for rapid deployment in combat.
 
 ### Snacks
 Snacks are small consumables that provide minor, immediate benefits.
-- Crafting and Usage are modified by your Proficiency with Cooking Utensils.
+- Crafting and Usage are modified by your Proficiency with Cook's Utensils.
 
 #### Crafting
 - Requirements:
-	- Cooking Utensils.
+	- Cook's Utensils.
 	- Ingredient (Foraged).
 - Crafting Time: 1 hour per batch.
 - Yield: 1d4 Snacks or Proficiency Bonus (PB).
@@ -214,11 +224,11 @@ Snacks are small consumables that provide minor, immediate benefits.
 
 ### Meals
 Meals are large, robust consumables that provide lasting benefits.
-- Crafting and Usage modified by your Proficiency with Cooking Utensils.
+- Crafting and Usage modified by your Proficiency with Cook's Utensils.
 
 #### Crafting
 - Requirements:
-	- Cooking Utensils.
+	- Cook's Utensils.
 	- Ingredient (Foraged).
 	- Ration.
 - Crafting Time: 1 hour per batch.
@@ -228,6 +238,7 @@ Meals are large, robust consumables that provide lasting benefits.
 - Time to Consume: 15 minutes
 - Provides Advantage on your next Saving Throw
 - Grants temporary bonus AC for the next 6 hours
+- Spoils in 6 hours.
 
 | Rarity    | Tier       | Meal                       |
 | --------- | ---------- | -------------------------- |
@@ -241,15 +252,15 @@ Meals are large, robust consumables that provide lasting benefits.
 
 ### Poison Vials
 Poison Vials are swift, situational consumables, designed to impose temporary conditions or debilitate foes.
-- Can be applied to a weapon or ammunition as an Action or Bonus Action.
 - Crafting and Usage modified by your Proficiency with Poisoner's Kit.
 
 #### Usage
 - Can be used as an Action and Bonus Action.
+- Can be delivered directly or applied to a weapon or a piece of ammunition as an Action or Bonus Action.
+- When applied to a weapon or a piece of ammunition, the poison remains effective for 1 minute.
 
 > [!ATTENTION] Poisons
-> - Poisons must be delivered visibly and contestably: the target has a reasonable opportunity to notice, resist, evade, or respond.
-> - Poisons that rely primarily on deception rather than direct, observable hazard are not allowed.
+> - Poisons must be delivered visibly and contestably: the target has a reasonable opportunity to resist, evade, or respond.
 > - See [[#Limits]]
 
 | Rarity    | Tier     | Save (CON) |
@@ -261,17 +272,12 @@ Poison Vials are swift, situational consumables, designed to impose temporary co
 | Legendary | Potent   | DC 17 + PB |
 | Artifact  | Mythic   | DC 20 + PB |
 
-| Poison Name       | Effect (on failed DC Save)                      |
+| Name              | Effect                                          |
 | ----------------- | ----------------------------------------------- |
-| Blinding Poison   | Blinded until the start of your next turn       |
-| Beguiling Poison  | Charmed until the start of your next turn       |
-| Deafening Poison  | Deafened until the start of your next turn      |
-| Fear Poison       | Frightened until the start of your next turn    |
-| Disabling Poison  | Incapacitated until the start of your next turn |
-| Paralytic Poison  | Paralyzed until the start of your next turn     |
-| Calcifying Poison | Petrified until the start of your next turn     |
-| Toxic Poison      | Poisoned until the start of your next turn      |
-| Shocking Poison   | Stunned until the start of your next turn       |
+| Crippling Poison  | Movement halved and AC -1                       |
+| Paralyzing Poison | Loses one action next turn                      |
+| Toxic Poison      | 2d6 Poison Damage                               |
+| Weakening Poison  | Disadvantage on Attack Rolls and Ability Checks |
 
 ---
 
@@ -297,33 +303,22 @@ Poison Vials are swift, situational consumables, designed to impose temporary co
 
 ### Feat
 
-#### [Poisoner (phb-2024)]([https://www.dndbeyond.com/feats/1878699-poisoner](https://www.dndbeyond.com/sources/dnd/phb-2024/feats#Poisoner)) [Feat]
-**Ability Score Increase**. Increase your Dexterity or Intelligence score by 1, to a maximum of 20.
-**Potent Poison**. When you make a damage roll that deals Poison damage, it ignores Resistance to Poison damage.
-**Brew Poison**. 
-1. You gain proficiency with the Poisoner’s Kit.
-2. With 1 hour of work using such a kit and expending 50 GP worth of materials, you can create a number of poison doses equal to your Proficiency Bonus.
-3. As a Bonus Action, you can apply a poison dose to a weapon or piece of ammunition.
-	1. Once applied, the poison retains its potency for 1 minute or until you deal damage with the poisoned item, whichever is shorter.
-	2. When a creature takes damage from the poisoned item, that creature must succeed on a Constitution saving throw (DC 8 plus the modifier of the ability increased by this feat and your Proficiency Bonus) or take 2d8 Poison damage and have the Poisoned condition until the end of your next turn.
-See [[#Limits]].
+#### Bitterhand [Feat]
+**Ability Score Increase.** +1 to Dexterity or Intelligence (max 20).  
+**Cruelty.** Poison damage you deal ignores Poison Resistance.  
+**Bitter Craft.** Gain proficiency with the Poisoner’s Kit.  
+**Sneaky Bugger.** As a Bonus Action, you can apply a Poison Vial to a weapon or piece of ammunition, and you can apply up to two doses of poison to a melee weapon.
 
 #### Bushman [Feat]
-**Ability Score Increase**. Increase your Constitution or Wisdom by 1, to a maximum of 20.
-**Field Knowledge**. You have advantage on Wisdom (Survival) checks to:
-1. Forage for edible plants and medicinal herbs
-2. Identify natural hazards
-3. Recognize signs of disease or poison exposure
-4. **Bushcraft**.
-	1. You gain proficiency with Herbalism Kits.
-	2. You can use a Herbalism Kit in place of a Healer’s Kit for any feature, action, or item that normally requires one.
-	3. Quick Aid (Reaction): When you or a creature within 5 feet would benefit from a Phial, you may use your reaction to consume or administer it.
+**Ability Score Increase.** +1 to Constitution or Wisdom (max 20).
+**Field Knowledge.** Advantage on checks to track, forage for ingredients or medicinal plants, and identify disease or poison exposure.
+**Bushcraft.** Gain proficiency with Herbalism Kit; you can stabilize an unconscious creature at 0 HP using the kit without a Wisdom (Medicine) check.
+**Quick Aid.** Once per round, after taking damage, you can consume a Phial.
 
 #### Hearthkeeper [Feat]
-**Ability Score Increase.** Increase your Dexterity or Wisdom by 1, to a maximum of 20.
-**Culinary Insight**. Advantage on checks to detect spoiled or tainted ingredients, environmental hazards, or subtle signs of illness, poison, or other threats.
-**Kitchen Craft**.
-1. You gain proficiency with Cook’s Utensils.
-2. You can use Cook’s Utensils in place of a Healer’s Kit for any feature, action, or item that normally requires one.
-3. **Quick Snack (Reaction):** You can consume a Snack yourself or feed it to a creature within 5 feet as a reaction. The Snack takes effect with your Proficiency Bonus (PB).
+**Ability Score Increase.** +1 to Dexterity or Wisdom (max 20).  
+**Culinary Insight.** Advantage on checks to detect spoiled/tainted ingredients and signs of illness, poison, or corruption.  
+**Kitchen Craft.** Gain proficiency with Cook’s Utensils.  
+**Quick Snack.** Once per round, on an ally’s turn, you can consume a Snack.  
+**Hearthbound Vigil.** While resting near a hearth you helped set, creatures cannot surprise you or your allies, and you have advantage on your first attack in combat.
 
