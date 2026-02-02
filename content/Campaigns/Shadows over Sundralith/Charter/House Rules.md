@@ -183,7 +183,7 @@ Herbal Phials are quick-use consumables designed for rapid deployment in combat.
 	- Herbalism Kit.
 	- Ingredient (Foraged).
 - Crafting Time: 1 hour per batch.
-- Yield: 1d4 Phials or Proficiency Bonus (PB).
+- Yield: 1d4 or Proficiency Bonus (PB) Phials.
 
 #### Usage
 - Can be used as an Action, Bonus Action, and once per turn, as a Free Action.
@@ -207,7 +207,7 @@ Snacks are small consumables that provide minor, immediate benefits.
 	- Cook's Utensils.
 	- Ingredient (Foraged).
 - Crafting Time: 1 hour per batch.
-- Yield: 1d4 Snacks or Proficiency Bonus (PB).
+- Yield: 1d4 or Proficiency Bonus (PB) Snacks.
 
 #### Usage
 - Can be used as an Action and Bonus Action.
@@ -253,6 +253,13 @@ Meals are large, robust consumables that provide lasting benefits.
 ### Poison Vials
 Poison Vials are swift, situational consumables, designed to impose temporary conditions or debilitate foes.
 - Crafting and Usage modified by your Proficiency with Poisoner's Kit.
+
+#### Crafting
+- Requirements:
+	- Poisoner's Kit.
+	- Ingredient (Foraged).
+- Crafting Time: 1 hour per batch.
+- Yield: 1d4 or Proficiency Bonus (PB) Vials.
 
 #### Usage
 - Can be used as an Action and Bonus Action.
