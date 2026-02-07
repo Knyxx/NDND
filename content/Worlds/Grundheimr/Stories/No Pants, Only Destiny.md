@@ -2,61 +2,66 @@
 publish: true
 ---
 
-[[Wuskan Dhyrktelonis|Wuskan]] is already in motion when everything goes wrong.
+[[Wuskan Dhyrktelonis]] was within the portal when unmaking began.
 
-He tumbles through an unstable portal, reality folding and unfolding around him in violent, stuttering waves. The magic of his artifacts erupts into discord. Powers meant to remain separate—carefully balanced, meticulously bound—collide. The harmonies that held them apart shatter. Control unravels.
+Reality did not merely fracture—it failed. The passage convulsed, folding and unfolding in violent, stuttering waves as the laws that governed it came apart. Direction dissolved. Distance lost meaning. The magic bound to Wuskan’s many artifacts—powers meant to remain separate, isolated by careful design—collapsed into mutual ruin. Enchantments touched, clashed, and devoured one another. Balance was not broken; it was erased.
 
-The portal screams.
+The portal screamed.
 
-Energy surges inward and outward at once, tearing open a rift between worlds. Space buckles. Direction loses meaning. Caught at the heart of the rupture, Wuskan is ripped free of his own realm and cast outward, flung like debris from a collapsing star.
+Energy surged inward and outward at once, tearing open a widening rift between worlds. Space buckled beneath forces it could no longer contain. At the heart of the collapse, Wuskan was torn free of his intended path and flung outward, cast like debris from a dying star.
 
-In the chaos, the clashing enchantments fuse.
+As he fell, destruction completed its work.
 
-Magic burns itself into singular purpose, collapsing into a single, searing relic—the [[Echo of the Lost Horizon]]. Its birth is annihilation. Every other artifact Wuskan carries is erased in an instant, reduced to ash, memory, and absence. Yet the Echo does not destroy him. Instead, it wraps around him, cocooning his body in raw, unyielding force.
+The clashing enchantments did not merely fuse—they annihilated one another, burning away identity, purpose, and form. Magic unmade itself entirely, stripping reality down to a single surviving intent. From that absolute erasure, something new was forged.
 
-Encased within its power, Wuskan hurtles through the void.
+The [[Echo of the Lost Horizon]] was born.
 
-Time stretches—or collapses. He cannot tell. Minutes, perhaps hours, drag by; he has no sense of up or down, no comprehension of distance.
+Its creation erased everything else. Every artifact Wuskan carried ceased to exist—reduced not even to ash, but to absence, their histories severed and forgotten by the world itself. Yet the Echo did not end with destruction. It turned inward, wrapping around Wuskan, cocooning him in raw force as the same unmaking reached for him.
 
-He drifts in and out of consciousness. One moment he glimpses alien landscapes spinning beneath him, the next he feels nothing but wind and weightless terror. Flickers of light, screams, and heat rush past. His mind grasps at fragments—sounds of shattering, flashes of motion, an instinctive fear he cannot name.
+He did not escape it.
 
-Amid the chaos, curiosity flickers.
+Encased within the Echo, Wuskan was torn apart and rewritten. Old limits burned away. Meaning collapsed and reformed. What he had been was stripped down, not to kill him, but to make space for something that could endure what followed.
 
-_What is this thing that holds me?_  
-_Why does it not destroy me?_
+Thus remade, relic and bearer fell together.
 
-Below lie lands he does not yet know—[Adaheimr], vast and indifferent.
+Impact came like judgment.
 
-Then comes impact.
+The Echo absorbed what force it could. What remained struck the world. Stone shattered. Water surged. The land bore the scar of his arrival.
 
-The Echo absorbs what it can. The rest shakes the world.
+Wuskan drifted in and out of consciousness. Cold slicked his scales. Pressure bruised his body as hung suspended. His breath came in shallow, ragged bursts. His skull throbbed as though struck from within, as if something fundamental had been removed and replaced. Sensation came in fragments—pressure, wetness, weight—then nothing.
 
-Wuskan is aware and unaware, slipping between sensation and nothingness. Cold water slicks his skin. Stone presses against him. His body flops and rolls, naked and shivering. Breathing comes in ragged, shallow bursts. His head throbs as though struck from within.
+Between those fragments, memory surfaced and shattered.
 
-And then—impossible:
+He remembered the meteorite in the desert, still warm beneath the stars. He remembered wandering broken realms and meeting the strange and the powerful. Bartenders who shed their skins to reveal dragons. Mad chickens that ran faster than any man. Vaults of impossible wealth and hordes of magical items gained and lost. Each memory fractured as it rose, splintering like glass under strain.
 
-Something lodged in his nose.
+What remained of the old world finished unraveling.
 
-He forces his fingers up and touches it. The [[Echo of the Lost Horizon]] hangs there, a necklace now revealed, slick and humming, its surface warm, alive against his skin.
+When consciousness returned, the falling had ended.
 
-It does not fall. It moves.
+Wuskan lay free—and wet.
 
-Inside, life—or something like it—rotates continuously, spinning with deliberate, mesmerizing precision. It tugs lightly at his skin, nudging him, aware of his touch. The low vibration presses into his skull, felt in his bones, setting his thoughts trembling. Images brush the edges of his mind: distance, collapse, a horizon that can never be reached.
+Cold golden liquid pooled beneath him. The air clung to his skin. Then an impossible sensation drew his focus: an obstruction in his nose. Disoriented, he raised a trembling hand and touched it.
 
-The relic rolls gently in his hand, testing him, guiding him. Wuskan does not recoil. Curiosity outweighs fear. Whatever it is, it has chosen him—and chosen to act now.
+What emerged was the Echo of the Lost Horizon, diminished and reshaped into a necklace, slick and humming, warm and alive against his skin. It did not fall away. It moved.
 
-The rotation quickens. The vibration becomes a rhythm, insistent, deliberate. It is not comforting. It is not threatening. It simply _is_.
+Within it, something rotated continuously—life, or a perfect imitation of it—spinning with deliberate precision. A low vibration pressed into his bones, not sound but pressure, setting his thoughts trembling. Images brushed the edge of his mind: collapse without end, distance without measure, a horizon that could never be reached.
 
-Something ancient has awakened.
+The Echo rolled gently in his hand, testing him. Guiding him. Wuskan did not recoil. Fear existed, but curiosity outweighed it. Whatever this thing was, it had destroyed everything he had been—and decided that what remained was sufficient.
 
-And for the first time since the fall, Wuskan understands a deeper truth:
+The rotation quickened. The vibration became rhythm—insistent, inevitable. It was not kind. It was not cruel. It simply _was_.
 
-He has not arrived here by accident.
+Something ancient had awakened.
 
-And nothing—neither world nor wanderer—will remain untouched by the Echo’s motion.
+And for the first time, Wuskan understood the truth of it:
 
-Then, a faint murmur drifts along the wind. Voices—others, moving with purpose, following, unseen. Wuskan frowns. Curiosity flares.
+He had not survived the fall.
 
-_Do they have pants?_ he wonders.
+He had been remade by it.
+
+Then voices drifted along the wind—others, unseen, moving with purpose. Wuskan frowned weakly, curiosity flaring despite everything.
+
+_Do they have pants?_
+
+
 
 
