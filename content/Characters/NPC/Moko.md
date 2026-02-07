@@ -5,9 +5,9 @@ tags:
   - Human
   - Paladin
   - Ashwarden
-publish: true
+publish: 
 ---
-![[Moko.jpg|250]]
+![[00 Unsorted/Moko.jpg|250]]
 
 [[Ashwardens|Ashwarden]] in training.
 

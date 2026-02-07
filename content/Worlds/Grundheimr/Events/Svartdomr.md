@@ -2,6 +2,7 @@
 tags:
   - Event
   - Catastrophe
+publish: false
 ---
 Event | Calamity | [[_timeline#0 BC / CY 1|0 BC/CY1]]
 

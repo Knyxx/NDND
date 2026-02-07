@@ -49,18 +49,18 @@ Things:
 - Introduce [[Adaheimr]], [[Crossroads Encampment]], and [[Elderrend]]
 - Enter [[Gar-ruk Oxfell|Gar-ruk]], new in encampment
 - Large crash leads to damaged warehouse and broken open cairn
-- Enter [[Zamos Walker|Zamos]], doing rounds in encampment
-- Tense meeting between [[Gar-ruk Oxfell|Gar-ruk]] and [[Zamos Walker|Zamos]]
+- Enter [[Zamos|Zamos]], doing rounds in encampment
+- Tense meeting between [[Gar-ruk Oxfell|Gar-ruk]] and [[Zamos|Zamos]]
 - [[Chaos Energy|energy]] pulses through the hills
 - Enter [[Robust.Garden.Bot (RGB)|RGB]], gardening, notices [[familiar feel]] of energy pulse
 - Enter [[Elara Ashbud|Elara]], watching [[Robust.Garden.Bot (RGB)|RGB]] gardening, notices both [[Robust.Garden.Bot (RGB)|RGB]] and her [[Ashbud’s Spirit Lantern|Tree Spirit]] attracted to something, follows
-- [[Robust.Garden.Bot (RGB)|RGB]] greets [[Gar-ruk Oxfell|Gar-ruk]] and [[Zamos Walker|Zamos]], [[Elara Ashbud|Elara]] makes herself known, a friendly greeting
-- [[Zamos Walker|Zamos]] mentions knowing of [[Warforged]]
+- [[Robust.Garden.Bot (RGB)|RGB]] greets [[Gar-ruk Oxfell|Gar-ruk]] and [[Zamos|Zamos]], [[Elara Ashbud|Elara]] makes herself known, a friendly greeting
+- [[Zamos|Zamos]] mentions knowing of [[Warforged]]
 - Coughing from hole, [[Party|party]] head to investigate
 - Enter [[Shimmer]], coughing
 - [[Robust.Garden.Bot (RGB)|RGB]] helps [[Shimmer]] up, [[Shimmer]] starts cleaning [[Robust.Garden.Bot (RGB)|RGB]] and tries to take a finger, is stopped
 - Sound of shattering glass from the next chamber
-- [[Party]] enters main chamber, [[Zamos Walker|Zamos]] and [[Gar-ruk Oxfell|Gar-ruk]] in the lead, weapons ready
+- [[Party]] enters main chamber, [[Zamos|Zamos]] and [[Gar-ruk Oxfell|Gar-ruk]] in the lead, weapons ready
 - Enter [[Wuskan Dhyrktelonis|Wuskan]], naked, emerging from [[golden sphere]]
 - [[golden sphere]] [[breaks and melts into a liquid]]
 - [[Party]] discuss [[Dragonborn]], [[Dragon Men]], and [[Dragon]]'s
@@ -74,10 +74,10 @@ Things:
 >[!info] Decision - Loot
 >- Loot to be sold and gold split equally
 
-- [[Shimmer]] offers rat corpses to [[Zamos Walker|Zamos]] and [[Robust.Garden.Bot (RGB)|RGB]], advises cook
-- [[Zamos Walker|Zamos]] asks if for her, [[Shimmer]] says for breakfast
+- [[Shimmer]] offers rat corpses to [[Zamos|Zamos]] and [[Robust.Garden.Bot (RGB)|RGB]], advises cook
+- [[Zamos|Zamos]] asks if for her, [[Shimmer]] says for breakfast
 - [[Robust.Garden.Bot (RGB)|RGB]] asks [[Wuskan Dhyrktelonis|Wuskan]] to cook, [[gives him clothes (gym shorts and vest)]]
-- Sounds behind door, [[Party]] investigate, [[Zamos Walker|Zamos]] in the lead
+- Sounds behind door, [[Party]] investigate, [[Zamos|Zamos]] in the lead
 
 >[!danger] Encounter - [[Cairn Draugr]]
 >- kill all enemies
@@ -87,10 +87,10 @@ Things:
 >[!info] Decision - Rule: Bonus Stacking
 >- As per 5E: Bonuses do not stack if they are from the same source or of the same type, however, bonuses from different sources or of different types can stack
 
-- [[Zamos Walker|Zamos]] prays for the departed
+- [[Zamos|Zamos]] prays for the departed
 - [[Gar-ruk Oxfell|Gar-ruk]] interrupted from searching Draugr
 - Enter [[Vargas]], advises not to disturb the dead
-- [[Vargas]] approves of [[Zamos Walker|Zamos]]' prayers
+- [[Vargas]] approves of [[Zamos|Zamos]]' prayers
 - [[Moko|Young Man]] swings incense burner over the draugr
 - [[Moko|Young man]] speaks with [[Party]]
 - [[Vargas]] directs villagers on clean up, glares at [[Moko| young man]] who returns to rites
@@ -138,7 +138,7 @@ Things:
 - [[Gar-ruk Oxfell|Gar-ruk]], annoyed at expectation refuses to stand trial with strangers
 - [[Party]] learn more of each other
 	- [[Gar-ruk Oxfell|Gar-ruk]] shares his family's demise and his theories
-	- [[Zamos Walker|Zamos]] shares emphasises and mentions own family
+	- [[Zamos|Zamos]] shares emphasises and mentions own family
 	- [[Elara Ashbud|Elara]] mentions wanting to protect her forest home
 	- [[Robust.Garden.Bot (RGB)|RGB]] mentions looking for her people from two centuries ago
 	- [[Shimmer]] mentions lack of purpose and shinnies

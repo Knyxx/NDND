@@ -58,7 +58,7 @@ tags:
 - [[Shimmer]] ([[Persephone]]) _absent_
 - [[Robust.Garden.Bot (RGB)]] ([[Livia]])
 - [[Wuskan Dhyrktelonis]] ([[Sam]])
-- [[Zamos Walker]] ([[DanNL]])
+- [[Zamos]] ([[DanNL]])
 
 
 

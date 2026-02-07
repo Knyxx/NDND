@@ -20,22 +20,22 @@ tags:
 
 - [[Robust.Garden.Bot (RGB)|RGB]] gives [[Gar-ruk Oxfell|Gar-ruk]] a pouch of dirt - gain [[Inspiration]]
 - [[Gar-ruk Oxfell|Gar-ruk]] appreciates gesture, tucks in belt, taking some to smell
-- [[Gar-ruk Oxfell|Gar-ruk]] speaks with [[Zamos Walker|Zamos]] privately
+- [[Gar-ruk Oxfell|Gar-ruk]] speaks with [[Zamos|Zamos]] privately
 - [[Gar-ruk Oxfell|Gar-ruk]] may know [[Gromash Oxfell|Gromash]]
-- [[Zamos Walker|Zamos]] knew [[Gromash Oxfell|Gromash]] for many years
+- [[Zamos|Zamos]] knew [[Gromash Oxfell|Gromash]] for many years
 - [[Gromash Oxfell|Gromash]] was a [[Prisoner of War|POW]] 
-- [[Zamos Walker|Zamos]] freed [[Gromash Oxfell|Gromash]]
+- [[Zamos|Zamos]] freed [[Gromash Oxfell|Gromash]]
 - [[Auros Cloudrunner|Zamos' father]] would not be happy, [[Gaia Mistwalker|Zamos' mother]] would be
 - Both want to speak with [[Gromash Oxfell|Gromash]] to find out information
 - [[Gar-ruk Oxfell|Gar-ruk]] was abandoned by [[Gromash Oxfell|Gromash]] at his weakest, not been around
-- [[Gar-ruk Oxfell|Gar-ruk]] offers to help [[Zamos Walker|Zamos]] if he helps him learn more of his clan, [[Zamos Walker|Zamos]] agrees
+- [[Gar-ruk Oxfell|Gar-ruk]] offers to help [[Zamos|Zamos]] if he helps him learn more of his clan, [[Zamos|Zamos]] agrees
 - [[Gromash Oxfell|Gromash]] is [[Gar-ruk Oxfell|Gar-ruk]] his grandfather
-- [[Zamos Walker|Zamos]] says [[Gromash Oxfell|Gromash]] was a pretty stand up guy
+- [[Zamos|Zamos]] says [[Gromash Oxfell|Gromash]] was a pretty stand up guy
 - There was a lot of destruction when [[Gromash Oxfell|Gromash]] left, many orcs involved
-- [[Zamos Walker|Zamos]] did not have much to do with home town, was close with his mother, wants to know what happened to her
-- [[Zamos Walker|Zamos]] offers to help [[Gar-ruk Oxfell|Gar-ruk]] him with justice, [[Gar-ruk Oxfell|Gar-ruk]] thanks him
-- [[Wuskan Dhyrktelonis|Wuskan]] seeing them awkwardly shake hands, pantomimes a manly handshake above the shoulder (gain [[Inspiration]]), [[Gar-ruk Oxfell|Gar-ruk]] and [[Zamos Walker|Zamos]] start a small arm wrestle.
-- Heading back to the others, [[Zamos Walker|Zamos]] sends up a small prayer
+- [[Zamos|Zamos]] did not have much to do with home town, was close with his mother, wants to know what happened to her
+- [[Zamos|Zamos]] offers to help [[Gar-ruk Oxfell|Gar-ruk]] him with justice, [[Gar-ruk Oxfell|Gar-ruk]] thanks him
+- [[Wuskan Dhyrktelonis|Wuskan]] seeing them awkwardly shake hands, pantomimes a manly handshake above the shoulder (gain [[Inspiration]]), [[Gar-ruk Oxfell|Gar-ruk]] and [[Zamos|Zamos]] start a small arm wrestle.
+- Heading back to the others, [[Zamos|Zamos]] sends up a small prayer
 - [[Party]] tidies up camp
 - [[Party]] heads south, travels for two hours, comes to split in the road
 - Left to a nearby campsite, right to ruins in the distance
@@ -43,7 +43,7 @@ tags:
 - Questioning the men, they do not believe the answers
 - [[Gar-ruk Oxfell|Gar-ruk]] sneaks up and captures one, threatening him and demanding answers
 - Does not get answers he is asking for, kills him
-- [[Zamos Walker|Zamos]] charges the other
+- [[Zamos|Zamos]] charges the other
 
 >[!danger] Encounter - [[Bandits]]
 >- kill two bandits, one escapes
@@ -56,7 +56,7 @@ tags:
 >- Can use to improve advantage or re-roll before success/fail confirmed 
 
 - [[Robust.Garden.Bot (RGB)|RGB]] heals captured man
-- [[Zamos Walker|Zamos]] threatens man, is insulted, man yells out "attack", nothing happens, [[Zamos Walker|Zamos]] executes him
+- [[Zamos|Zamos]] threatens man, is insulted, man yells out "attack", nothing happens, [[Zamos|Zamos]] executes him
 - [[Gar-ruk Oxfell|Gar-ruk]] searches for identifying markers, finds nothing
 - One shiny item was found in man, as [[Robust.Garden.Bot (RGB)|RGB]] had told [[Shimmer]]
 - [[Robust.Garden.Bot (RGB)|RGB]] investigates camp + [[Inspiration]]
@@ -82,9 +82,9 @@ tags:
 - [[Party]] approach mine but decide to have a short rest before continuing
 
 >[!todo] [[Short Rest]]
->- [[Robust.Garden.Bot (RGB)|RGB]] and [[Zamos Walker|Zamos]] rest in cave entrance, speak to their gods
+>- [[Robust.Garden.Bot (RGB)|RGB]] and [[Zamos|Zamos]] rest in cave entrance, speak to their gods
 >	- [[Robust.Garden.Bot (RGB)|RGB]] speaks of [[Selûne]], making light from darkness, they are seeking her other followers
->	- [[Zamos Walker|Zamos]] speaks of being closer to his faith following his clan's demise
+>	- [[Zamos|Zamos]] speaks of being closer to his faith following his clan's demise
 >- [[Elara Ashbud|Elara]] and [[Gar-ruk Oxfell|Gar-ruk]] discuss combat tactics and [[Elara Ashbud|Elara's origin]]
 >- [[Elara Ashbud|Elara]] cleans arrows of blood, [[Gar-ruk Oxfell|Gar-ruk]] is confused 
 >- [[Elara Ashbud|Elara]] considers the movement from earlier, could have been someone warning the others
@@ -93,7 +93,7 @@ tags:
 - Find [[Tor Emberdelve|an unconscious man]] tied up in the back
 - [[Gar-ruk Oxfell|Gar-ruk]] finds a chest with items worth 25G
 - [[Durough Oxfell|A large Orc]] leading a large group of bandits enter the cave and approach the party
-- [[Zamos Walker|Zamos]] questions and challenges the [[Orc]]
+- [[Zamos|Zamos]] questions and challenges the [[Orc]]
 - [[Durough Oxfell|The large Orc]] laughs, gestures to the bandits to let him handle them
 - [[Party]] attempt to fight the [[Orc]], seemingly futile
 - [[Party]] grab [[Tor Emberdelve|the unconscious man]] and escape, jumping deeper into the cavern

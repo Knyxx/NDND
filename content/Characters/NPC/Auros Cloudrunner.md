@@ -18,7 +18,7 @@ NPC | [[Goliath]] | [[Paladin]] ([[Oath of Vengence]])
 
 #### Connections
 - Wife: [[Gaia Mistwalker]]
-- Son: [[Zamos Walker]]
+- Son: [[Zamos]]
 - Clans: [[Cloudrunner Clan]] - Clan Head
 - Faith: [[Solaris and Lunaris]]
 - Locations:
@@ -35,9 +35,9 @@ NPC | [[Goliath]] | [[Paladin]] ([[Oath of Vengence]])
 - Focused on justice, honor, and protection, even at personal cost
 
 #### Story
-- Head of [[Cloudrunner Clan]] and father to [[Zamos Walker|Zamos]]
+- Head of [[Cloudrunner Clan]] and father to [[Zamos|Zamos]]
 - Defended [[Skywatch Fortress]] during its fall; captured while trying to aid his wounded wife
 - Enslaved and magically bound by an [[Ember Order]], forced into service as an enforcer, [[Skythane and Enforcers]]
-- Tasked to hunt [[Zamos Walker|Zamos]], believed to hold information about the [[Twin-Blessed Celestite]], heirloom of the [[Mistwalker Clan]]
+- Tasked to hunt [[Zamos|Zamos]], believed to hold information about the [[Twin-Blessed Celestite]], heirloom of the [[Mistwalker Clan]]
 
 

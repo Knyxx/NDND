@@ -22,6 +22,6 @@ Society | Clan
 
 #### Notable Members
 - [[Auros Cloudrunner]]  _deceased_ - Last Clan Head
-- [[Zamos Walker]] - last known surviving member
+- [[Zamos]] - last known surviving member
 
 

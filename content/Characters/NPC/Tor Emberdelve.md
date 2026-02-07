@@ -5,7 +5,7 @@ aliases:
 tags:
   - NPC
   - Dwarf
-publish: true
+publish: 
 ---
 ![[Tor Emberdelve.jpg|250 ]]
 
@@ -19,5 +19,5 @@ publish: true
 - [[Herbalism Kit]]
 
 #### Story
-- Rescued by [[Party]] after being captured by [[Durough Oxfell]]
-- Sheltered [[Thyra Oxfell|Thyra]] and her son [[Gar-ruk Oxfell]] until she was killed and he disappeared 
+- Rescued by Party after being captured by Durough
+- Sheltered Thyra Oxfell and her son Gar-ruk until she was killed and he disappeared 

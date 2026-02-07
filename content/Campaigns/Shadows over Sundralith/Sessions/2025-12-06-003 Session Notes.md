@@ -28,15 +28,15 @@ Moments later, a large bandit force led by a [[Durough Oxfell|powerful orc]] ret
 - Party come across bodies, long dead, at the back of the cavern
 - Party find 3 bear corpses in the middle of the cavern
 - Party keep exploring
-- [[Zamos Walker|Zamos]] casts [[Detect Good and Evil]], notices [[Goldi|spirit]] further in cavern
+- [[Zamos|Zamos]] casts [[Detect Good and Evil]], notices [[Goldi|spirit]] further in cavern
 - [[Wuskan Dhyrktelonis|Wuskan]] finds exit from cavern, returns to party
 - Party finds doors smashed in, dead inside from long ago
 - Party find [[Goldi]], notice she is dead
 - Party decide to lay her to rest
 - [[Gar-ruk Oxfell|Gar-ruk]] remembers the rites of the land, shares them with the group
-- [[Zamos Walker|Zamos]] mentions his peoples practices, prayers over a lit holy blade
+- [[Zamos|Zamos]] mentions his peoples practices, prayers over a lit holy blade
 - [[Robust.Garden.Bot (RGB)|RGB]] and [[Shimmer]] stay with [[Goldi]], pressing flowers, [[Elara Ashbud|Elara]] keeps watch over them and the entrance
-- [[Gar-ruk Oxfell|Gar-ruk]], [[Wuskan Dhyrktelonis|Wuskan]], and [[Zamos Walker|Zamos]] head to the back of the cavern and lay [[Goldi|Goldi's Spirit]] to rest
+- [[Gar-ruk Oxfell|Gar-ruk]], [[Wuskan Dhyrktelonis|Wuskan]], and [[Zamos|Zamos]] head to the back of the cavern and lay [[Goldi|Goldi's Spirit]] to rest
 - [[Goldi]] happily passes on, no longer suppressing the spirits of the dead bears, they awaken with a roar
 - [[Tor Emberdelve|Tor]] flees
 - [[Gar-ruk Oxfell|Gar-ruk]] oils his blades to ready them to fight
