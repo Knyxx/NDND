@@ -6,11 +6,9 @@ tags:
   - PC
   - Goliath
   - Paladin
+  - OathOfVengence
 publish: true
 ---
-[Goliath] | [Paladin] ([Oath of Justice (Vengeance)])
-![[Zamos Walker.jpg|250]]
-
 Zamos (_ZAY-Moss_)
 
 #### Names & Titles
@@ -42,3 +40,4 @@ Zamos (_ZAY-Moss_)
 #### Story
 - [[Ash and Oath]]
 
+![[Zamos Walker.jpg]]

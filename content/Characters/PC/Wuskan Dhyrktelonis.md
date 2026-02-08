@@ -4,14 +4,12 @@ aliases:
   - Dragon-Man
 tags:
   - PC
-  - Chromatic
-  - Dragonborn
+  - ChromaticDragonborn
+  - SandElf
   - Sorcerer
+  - DraconicSorcery
 publish: true
 ---
-[Chromatic Dragonborn] (Originally [Sand Elf]) | [Sorcerer] ([Draconic Sorcery])
-![[Wuskan Dhyrktelonis.jpeg|250]]
-
 #### Names & Titles
 - Wuskan Dhyrktelonis
 
@@ -35,6 +33,7 @@ publish: true
 #### Story
 - [[No Pants, Only Destiny]]
 
+![[Wuskan Dhyrktelonis.jpeg]]
 
 
 
