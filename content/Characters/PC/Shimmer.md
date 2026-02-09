@@ -4,17 +4,20 @@ tags:
   - Human
   - Rogue
   - Thief
-publish: 
+publish: true
 ---
 
 #### Names & Titles
 - Shimmer
 
 #### Appearance
-- 
+- Black hair and pointed ears
+- Slight frame
+- Wears light studded leathers over robes
+- Dark silver bird shaped hairpin
 
 #### Key Items
-- None
+- [[Nightingale’s Pin]]
 
 #### Connections
 - 
@@ -23,6 +26,8 @@ publish:
 - Kinda tasked with retrieving a 'treasure' from a 'dragon'
 
 #### Story
-- 
+- [[One Bird, One Golden Stone]]
 
 ![[Shimmer.jpeg]]
+
+
