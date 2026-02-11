@@ -235,9 +235,9 @@ Meals are large, robust consumables that provide lasting benefits.
 - Yield: 1 Meal per Ingredient + Ration used (multiple Meals can be cooked together)
 
 #### Usage
-- Time to Consume: 15 minutes
-- Provides Advantage on your next Saving Throw
-- Grants temporary bonus AC for the next 6 hours
+- Time to Consume: 15 minutes.
+- Provides Advantage on your next Saving Throw.
+- Grants temporary bonus AC for the next 6 hours.
 - Spoils in 6 hours.
 
 | Rarity    | Tier       | Meal                       |

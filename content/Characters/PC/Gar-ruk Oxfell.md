@@ -12,8 +12,9 @@ tags:
 
 #### Names & Titles
 - Gar-ruk Oxfell
-- “The Wayfarer”
-- “Last Fang of Oxfell”
+- The Wayfarer
+- Last Fang of Oxfell
+- Face-Taker
 
 #### Key Items
 - [[Oxfell Clan Studded Leather]] _brother's old armour_
