@@ -2,13 +2,13 @@
 tags:
   - Settlement
   - Village
+publish: true
 ---
-Settlement | Village
 
 Moundstead (_MOWND-stead_) - “Settlement at the Mound”
 
 #### Overview
-Moundstead is a small village nestled beneath [[Stonehowe]], the Great Cairn. Its people farm, trade, and maintain rituals honouring the dead. The village exists in close partnership with the [[Ashwardens]], who protect the [[Gravedeep]] beneath the cairn and ensure the [[Restless]] dead do not rise.
+Moundstead is a small village nestled beneath [[Stonehowe]], the Great Cairn. Its people farm, trade, and maintain rituals honouring the dead. The village exists in close partnership with the [[Ashwardens]], who protect the [[Gravedeep]] beneath the cairn and ensure the Restless dead do not rise.
 
 #### Culture & Society
 Villagers regularly make offerings of food, coin, or crafted items at Stonehowe.

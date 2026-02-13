@@ -4,8 +4,6 @@ tags:
   - Catastrophe
 publish: true
 ---
-Event | Catastrophe
-
 Elderrend (_EL-der-rend_) - “The Rending Flame”
 
 #### Overview

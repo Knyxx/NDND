@@ -1,6 +1,6 @@
 ---
 tags:
-  - DM
+  - reference
 ---
 
 - [[Sundralith]] _continent_

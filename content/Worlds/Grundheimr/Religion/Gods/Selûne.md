@@ -14,5 +14,5 @@ Revered as a benevolent deity of light, she represents guidance, protection for 
 
 Often depicted as a radiant woman with silver hair and a crescent moon, her followers include sailors, wanderers, and those seeking hope in darkness.
 
-Her eternal rival is [Shar], goddess of darkness and loss.
+Her eternal rival is Shar, goddess of darkness and loss.
 

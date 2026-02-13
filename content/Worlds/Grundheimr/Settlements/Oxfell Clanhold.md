@@ -3,10 +3,10 @@ tags:
   - Settlement
   - Clanhold
   - Oxfell
+publish: true
 ---
-Settlement | Clanhold | Oxfell
 
-In [[Adaheimr]].
+In Adaheimr.
 
 Home of [[Oxfell Clan]], founded by [[Grusk Oxfell]].
 

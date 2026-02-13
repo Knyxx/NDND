@@ -2,7 +2,7 @@
 tags: Reference
 publish: true
 ---
-Leaking through [Dimensional Breaches], this raw, unstable force disrupts natural laws, warping matter, magic, and living things.
+Leaking through Dimensional Breaches, this raw, unstable force disrupts natural laws, warping matter, magic, and living things.
 
 Flora and fauna exposed to it mutate into altered or aberrant forms, and affected regions often become hostile and unstable.
 
