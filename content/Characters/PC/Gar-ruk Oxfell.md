@@ -27,10 +27,10 @@ publish: true
 
 #### Connections
 - Brother: Durough Oxfell
-- Father: Brukk Oxfell
-	- Grandfather: Gromash Oxfell
-	- Granduncle: Brukkar Oxfell]
-	- Mother: Thyra Oxfell
+- Father: [[Brukk Oxfell]]
+	- Mother: [[Thyra Oxfell]]
+- Grandfather: Gromash Oxfell
+- Granduncle: [[Brukkar Oxfell]]
 - Clans: [[Oxfell Clan]]
 
 #### Motivations

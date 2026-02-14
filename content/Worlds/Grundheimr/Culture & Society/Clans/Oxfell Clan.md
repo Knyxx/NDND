@@ -19,10 +19,10 @@ publish: true
 ### Lineage
 - [[Grusk Oxfell]] Founder
 	- _lost_
-	    - Brukkar Oxfell Last Clan Head
-		- Gromash Oxfell Brother
-			- Brukk Oxfell
-			- Thyra Oxfell - _Wife_
+	    - [[Brukkar Oxfell]] _Last Clan Head_
+		- Gromash Oxfell _Brother_
+			- [[Brukk Oxfell]]
+			- [[Thyra Oxfell]] - _Wife_
 				- Durough Oxfell
 				- [[Gar-ruk Oxfell]]
 

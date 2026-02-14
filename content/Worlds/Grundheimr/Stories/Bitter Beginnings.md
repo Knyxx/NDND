@@ -5,17 +5,17 @@ publish: true
 
 He was raised beneath wide skies and honest labour.
 
-The farm lay low against the hills, its fences straight, its fields disciplined by season and sweat. Wind moved clean across the land, carrying the scents of turned earth, cut hay, and steady woodsmoke from a chimney that never failed. It was a small holding, but it stood firm, anchored as much by will as by timber and stone.
+[[Hardacre]] lay low against the hills, its fences straight, its fields disciplined by season and sweat. Wind moved clean across the land, carrying the scents of turned earth, cut hay, and steady woodsmoke from a chimney that never failed. It was a small holding, but it stood firm, anchored as much by will as by timber and stone.
 
-His father embodied that firmness. Thick hands, scar-lined knuckles, a back that bent only when the work demanded it. He spoke little, endured much, and expected the same. His presence was not loud, yet it filled every room and furrow.
+His father, [[Brukk Oxfell|Brukk]] embodied that firmness. Thick hands, scar-lined knuckles, a back that bent only when the work demanded it. He spoke little, endured much, and expected the same. His presence was not loud, yet it filled every room and furrow.
 
-His mother’s strength ran quieter but no less deep. She read the weather in the bellies of clouds and the health of soil in its scent. She would kneel in the fields, crumble dirt between her fingers, lift it to her nose, and breathe in as though listening. Clay spoke differently than loam. Peat carried a darker note. She could taste rain in the air hours before it fell. The world spoke in wind and earth and growing things, and she answered by paying attention.
+[[Thyra Oxfell|Thyra]], his mother’s strength ran quieter but no less deep. She read the weather in the bellies of clouds and the health of soil in its scent. She would kneel in the fields, crumble dirt between her fingers, lift it to her nose, and breathe in as though listening. Clay spoke differently than loam. Peat carried a darker note. She could taste rain in the air hours before it fell. The world spoke in wind and earth and growing things, and she answered by paying attention.
 
 From her, Gar-ruk first learned that every place had a scent. A farm was not merely seen; it was known by the sharp sweetness of fresh hay, the mineral damp of morning soil, the faint sourness of livestock, the resin of split wood. To smell the dirt was to know whether it would yield or fail. To breathe deeply was to understand where one stood.
 
-His brother was more legend than memory. Gar-ruk knew him through stories told by firelight—campaign roads stretching endless and muddy, narrow escapes from ambush, a duel fought knee-deep in river water. When he left, he left behind his old armour, inherited from their grandfather: dented, worn, but meticulously kept. “To protect the little one,” their parents had said.
+His brother Durough was more legend than memory. Gar-ruk knew him through stories told by firelight—campaign roads stretching endless and muddy, narrow escapes from ambush, a duel fought knee-deep in river water. When he left, he left behind his old armour, inherited from their grandfather: dented, worn, but meticulously kept. “To protect the little one,” their parents had said.
 
-He would grin as he fastened it on, reenacting his battles for an audience of two, often falling asleep still wrapped in leather, claiming he was “at his post.” Their parents would exchange looks of pride and quiet amusement. Even then, strength was never preached in that house. It was demonstrated.
+He would grin as he fastened it on, re-enacting his battles for an audience of two, often falling asleep still wrapped in leather, claiming he was “at his post.” Their parents would exchange looks of pride and quiet amusement. Even then, strength was never preached in that house. It was demonstrated.
 
 At twelve winters, the wolves came.
 
