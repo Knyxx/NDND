@@ -14,5 +14,5 @@ Apprenticed to [[Vargas]].
 
 Followed in footsteps of his cousin in joining the [[Ashwardens]].
 
-![[Moko.jpg]]
+![[Characters/NPC/attachments/Moko.jpg]]
 

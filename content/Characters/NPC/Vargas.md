@@ -14,4 +14,4 @@ Training of [[Moko|Apprentice Warden Moko]].
 
 Took Party to be judged in a Trial of the Fallen Warrior following 
 
-![[Vargas.jpg]]
+![[Characters/NPC/attachments/Vargas.jpg]]
