@@ -1,9 +1,11 @@
 ---
 tags:
-  - MagicItem
+  - accessory
+  - magic_item
+  - attunement
+rarity: rare
 publish: true
 ---
-_Wondrous Item, rare (requires attunement)_
 
 A simple lantern of wood and thin metal, shaped with delicate elven craftsmanship and made by Ashbud’s family to bless safe travels. Its sliding door reveals a small glowing orb—a friendly tree spirit that travels with its bearer, shedding a warm, greenish light.
 

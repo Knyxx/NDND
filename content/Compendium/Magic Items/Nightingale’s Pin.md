@@ -1,10 +1,12 @@
 ---
 tags:
-  - MagicItem
+  - accessory
+  - magic_item
+  - attunement
+rarity: uncommon
 publish: true
 ---
- _Wondrous Item, uncommon (requires attunement)_
-
+ 
 A darkened silver hairpin shaped like a bird with wings arched upward, their tips meeting to form a circular gem setting. Though unfinished, it sharpens the wearer’s eyes for glimmers in the dark.
 
 #### Properties

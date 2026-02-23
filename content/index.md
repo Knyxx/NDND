@@ -5,11 +5,19 @@ publish: true
 
 ### [[House Rules]]
 
-### [[Intro|Shadows over Sundralith]]
+### [[Shadows over Sundralith Intro|Shadows over Sundralith]]
 
-### [PC](https://knyxx.github.io/NDND/tags/PC)
+#### People
 
+- [PC](https://knyxx.github.io/NDND/tags/PC)
+- [NPC](https://knyxx.github.io/NDND/tags/NPC)
 
+#### Places
+- 
+
+#### Things
+- [Magic Items](https://knyxx.github.io/NDND/tags/MagicItems)
+- [Consumables](https://knyxx.github.io/NDND/tags/Consumables)
 
 
 

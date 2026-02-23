@@ -77,6 +77,7 @@ Players of dying PCs are muted (except for reactions affecting others).
 ### Exhaustion
 - Dropping to 0 HP immediately causes 1 level of Exhaustion (in addition to other effects).
 - Exhaustion from Overextension may only be reduced by 1 level per Long Rest.
+- [[Exhaustion Tracker]]
 
 ### Overextension
 A character may push beyond normal limits to use a spell, ability, or action without expending the required slot, charge, or use.
@@ -173,6 +174,18 @@ When no viable ingredients exist, this is immediately obvious and no time cost.
 - Yield: 1d4 ingredients per hour
 - Maximum ingredient tier is determined by location
 
+#### Ingredients
+
+| Rarity                                | Crafts            |
+| ------------------------------------- | ----------------- |
+| [[Ingredient (Common)\|Common]]       | Weak, Simple      |
+| [[Ingredient (Uncommon)\|Uncommon]]   | Minor, Seasoned   |
+| [[Ingredient (Rare)\|Rare]]           | Standard, Choice  |
+| [[Ingredient (Very Rare)\|Very Rare]] | Strong, Prime     |
+| [[Ingredient (Legendary)\|Legendary]] | Potent, Deluxe    |
+| [[Ingredient (Artifact)\|Artifact]]   | Mythic, Exquisite |
+
+
 
 ### Herbal Phials
 Herbal Phials are quick-use consumables designed for rapid deployment in combat.
@@ -188,14 +201,14 @@ Herbal Phials are quick-use consumables designed for rapid deployment in combat.
 #### Usage
 - Can be used as an Action, Bonus Action, and once per turn, as a Free Action.
 
-| Rarity    | Tier     | Health Recovery | Temp Health |
-| --------- | -------- | --------------- | ----------- |
-| Common    | Weak     | 2d4 + PB        | 1d4 + PB    |
-| Uncommon  | Minor    | 2d6 + PB        | 1d6 + PB    |
-| Rare      | Standard | 2d8 + PBx2      | 1d8 + PBx2  |
-| Very Rare | Strong   | 2d10 + PBx2     | 1d10 + PBx2 |
-| Legendary | Potent   | 2d12 + PBx3     | 1d12 + PBx3 |
-| Artifact  | Mythic   | 2d20 + PBx3     | 1d20 + PBx3 |
+| Health                                              | Temp Health                                               |
+| --------------------------------------------------- | --------------------------------------------------------- |
+| [[Weak Health Phial\|Weak]] 2d4 + PB HP             | [[Weak Temp Health Phial\|Weak]] 1d4 + PB THP             |
+| [[Minor Health Phial\|Minor]] 2d6 + PB HP           | [[Minor Temp Health Phial\|Minor]] 1d6 + PB THP           |
+| [[Standard Health Phial\|Standard]] 2d8 + (PBx2) HP | [[Standard Temp Health Phial\|Standard]] 1d8 + (PBx2) THP |
+| [[Strong Health Phial\|Strong]] 2d10 + (PBx2) HP    | [[Strong Temp Health Phial\|Strong]] 1d10 + (PBx2) THP    |
+| [[Potent Health Phial\|Potent]] 2d12 + (PBx3) HP    | [[Potent Temp Health Phial\|Potent]] 1d12 + (PBx3) THP    |
+| [[Mythic Health Phial\|Mythic]] 2d20 + (PBx3) HP    | [[Mythic Temp Health Phial\|Mythic]] 1d20 + (PBx3) THP    |
 
 
 ### Snacks
@@ -212,14 +225,14 @@ Snacks are small consumables that provide minor, immediate benefits.
 #### Usage
 - Can be used as an Action and Bonus Action.
 
-| Rarity    | Tier       | Snack          |
-| --------- | ---------- | -------------- |
-| Common    | Rustic     | 1d4 + PB HP    |
-| Uncommon  | Satisfying | 1d6 + PB HP    |
-| Rare      | Refined    | 1d8 + 2×PB HP  |
-| Very Rare | Exquisite  | 1d10 + 2×PB HP |
-| Legendary | Masterwork | 1d12 + 3×PB HP |
-| Artifact  | Legendary  | 1d20 + 3×PB HP |
+| Tier                           | Snack            |
+| ------------------------------ | ---------------- |
+| [[Simple Snack\|Simple]]       | 1d4 + PB HP      |
+| [[Seasoned Snack\|Seasoned]]   | 1d6 + PB HP      |
+| [[Choice Snack\|Choice]]       | 1d8 + (PBx2) HP  |
+| [[Prime Snack\|Prime]]         | 1d10 + (PBx2) HP |
+| [[Deluxe Snack\|Deluxe]]       | 1d12 + (PBx3) HP |
+| [[Exquisite Snack\|Exquisite]] | 1d20 + (PBx3) HP |
 
 
 ### Meals
@@ -237,17 +250,17 @@ Meals are large, robust consumables that provide lasting benefits.
 #### Usage
 - Time to Consume: 15 minutes.
 - Provides Advantage on your next Saving Throw.
-- Grants temporary bonus AC for the next 6 hours.
-- Spoils in 6 hours.
+- Grants temporary bonus AC for 6 hours from consumption.
+- Spoils in 6 hours if not consumed.
 
-| Rarity    | Tier       | Meal                       |
-| --------- | ---------- | -------------------------- |
-| Common    | Rustic     | 2d4 + PB Temp Health (THP) |
-| Uncommon  | Satisfying | 2d6 + PB THP               |
-| Rare      | Refined    | 2d8 + 2×PB THP +1 AC       |
-| Very Rare | Exquisite  | 2d10 + 2×PB THP +1 AC      |
-| Legendary | Masterwork | 2d12 + 3×PB THP +2 AC      |
-| Artifact  | Legendary  | 2d20 + 3×PB THP +2 AC      |
+| Tier                          | Meal                     |
+| ----------------------------- | ------------------------ |
+| [[Simple Meal\|Simple]]       | 2d4 + PB THP             |
+| [[Seasoned Meal\|Seasoned]]   | 2d6 + PB THP             |
+| [[Choice Meal\|Choice]]       | 2d8 + (PBx2) THP. +1 AC  |
+| [[Prime Meal\|Prime]]         | 2d10 + (PBx2) THP. +1 AC |
+| [[Deluxe Meal\|Deluxe]]       | 2d12 + (PBx3) THP. +2 AC |
+| [[Exquisite Meal\|Exquisite]] | 2d20 + (PBx3) THP. +2 AC |
 
 
 ### Poison Vials
@@ -270,21 +283,23 @@ Poison Vials are swift, situational consumables, designed to impose temporary co
 > - Poisons must be delivered visibly and contestably: the target has a reasonable opportunity to resist, evade, or respond.
 > - See [[#Limits]]
 
-| Rarity    | Tier     | Save (CON) |
-| --------- | -------- | ---------- |
-| Common    | Weak     | DC 5 + PB  |
-| Uncommon  | Minor    | DC 8 + PB  |
-| Rare      | Standard | DC 11 + PB |
-| Very Rare | Strong   | DC 14 + PB |
-| Legendary | Potent   | DC 17 + PB |
-| Artifact  | Mythic   | DC 20 + PB |
+| Tier     | Save (CON) |
+| -------- | ---------- |
+| Weak     | DC 5 + PB  |
+| Minor    | DC 8 + PB  |
+| Standard | DC 11 + PB |
+| Strong   | DC 14 + PB |
+| Potent   | DC 17 + PB |
+| Mythic   | DC 20 + PB |
 
-| Name              | Effect                                          |
-| ----------------- | ----------------------------------------------- |
-| Crippling Poison  | Movement halved and AC -1                       |
-| Paralyzing Poison | Loses one action next turn                      |
-| Toxic Poison      | 2d6 Poison Damage                               |
-| Weakening Poison  | Disadvantage on Attack Rolls and Ability Checks |
+| Name              | Effect                                          | Poison Vial                                                                                                                                                                                                                                               |
+| ----------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Crippling Poison  | Movement halved and AC -1                       | [[Weak Crippling Poison Vial\|Weak]] [[Minor Crippling Poison Vial\|Minor]] [[Standard Crippling Poison Vial\|Standard]] [[Strong Crippling Poison Vial\|Strong]] [[Potent Crippling Poison Vial\|Potent]] [[Mythic Crippling Poison Vial\|Mythic]]       |
+| Paralyzing Poison | Loses one action next turn                      | [[Weak Paralyzing Poison Vial\|Weak]] [[Minor Paralyzing Poison Vial\|Minor]] [[Standard Paralyzing Poison Vial\|Standard]] [[Strong Paralyzing Poison Vial\|Strong]] [[Potent Paralyzing Poison Vial\|Potent]] [[Mythic Paralyzing Poison Vial\|Mythic]] |
+| Toxic Poison      | 2d6 + PB Poison Damage                          | [[Weak Toxic Poison Vial\|Weak]] [[Minor Toxic Poison Vial\|Minor]] [[Standard Toxic Poison Vial\|Standard]] [[Strong Toxic Poison Vial\|Strong]] [[Potent Toxic Poison Vial\|Potent]] [[Mythic Toxic Poison Vial\|Mythic]]                               |
+| Weakening Poison  | Disadvantage on Attack Rolls and Ability Checks | [[Weak Weakening Poison Vial\|Weak]] [[Minor Weakening Poison Vial\|Minor]] [[Standard Weakening Poison Vial\|Standard]] [[Strong Weakening Poison Vial\|Strong]] [[Potent Weakening Poison Vial\|Potent]] [[Mythic Weakening Poison Vial\|Mythic]]       |
+
+
 
 ---
 
@@ -310,22 +325,22 @@ Poison Vials are swift, situational consumables, designed to impose temporary co
 
 ### Feat
 
-#### Bitterhand [Feat]
+#### [[Bitterhand]] [Feat]
 **Ability Score Increase.** +1 to Dexterity or Intelligence (max 20).  
-**Cruelty.** Poison damage you deal ignores Poison Resistance.  
 **Bitter Craft.** Gain proficiency with the Poisoner’s Kit.  
+**Cruelty.** Poison damage you deal ignores Poison Resistance.  
 **Sneaky Bugger.** As a Bonus Action, you can apply a Poison Vial to a weapon or piece of ammunition, and you can apply up to two doses of poison to a melee weapon.
 
-#### Bushman [Feat]
+#### [[Bushman]] [Feat]
 **Ability Score Increase.** +1 to Constitution or Wisdom (max 20).
-**Field Knowledge.** Advantage on checks to track, forage for ingredients or medicinal plants, and identify disease or poison exposure.
 **Bushcraft.** Gain proficiency with Herbalism Kit; you can stabilize an unconscious creature at 0 HP using the kit without a Wisdom (Medicine) check.
+**Field Knowledge.** Advantage on checks to track, forage for ingredients or medicinal plants, and identify disease or poison exposure.
 **Quick Aid.** Once per round, after taking damage, you can consume a Phial.
 
-#### Hearthkeeper [Feat]
+#### [[Hearthkeeper]] [Feat]
 **Ability Score Increase.** +1 to Dexterity or Wisdom (max 20).  
-**Culinary Insight.** Advantage on checks to detect spoiled/tainted ingredients and signs of illness, poison, or corruption.  
 **Kitchen Craft.** Gain proficiency with Cook’s Utensils.  
+**Culinary Insight.** Advantage on checks to detect spoiled/tainted ingredients and signs of illness, poison, or corruption.  
 **Quick Snack.** Once per round, on an ally’s turn, you can consume a Snack.  
 **Hearthbound Vigil.** While resting near a hearth you helped set, creatures cannot surprise you or your allies, and you have advantage on your first attack in combat.
 

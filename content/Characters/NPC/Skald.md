@@ -1,7 +1,7 @@
 ---
-tags:
-	- NPC
-	- Human
+tags: 
+  - NPC
+  - Human
 publish: true
 ---
 

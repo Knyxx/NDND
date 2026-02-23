@@ -1,9 +1,11 @@
 ---
 tags:
-  - MagicItem
+  - accessory
+  - magic_item
+  - attunement
+rarity: artifact
 publish: true
 ---
- _Wondrous Item, artifact (requires attunement)_
 
 A fractured, geode-like meteor born from unstable magics, numerous enchanted items, and a chaotic interdimensional portal that brought it—and its wielder—into this world. Its cracked surface features a large maw revealing a roiling void at its core, while partially hardened, molten layers flow around and through each other, occasionally glimpsing the consuming darkness within.
 

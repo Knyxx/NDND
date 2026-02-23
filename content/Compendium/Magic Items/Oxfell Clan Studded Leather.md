@@ -1,10 +1,11 @@
 ---
 tags:
-  - MagicItem
+  - armour
+  - magic_item
+  - attunement
+rarity: uncommon
 publish: true
 ---
-_Armor (studded leather), uncommon_
-
 #### Description
 A well-worn leather cuirass reinforced with iron studs, the Oxfell clan symbol proudly embossed on the right shoulder. The leather is supple but scarred, each mark a testament to battles survived.
 
