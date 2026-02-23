@@ -16,8 +16,6 @@ publish: true
 - 
 
 #### Things
-- [Magic Items](https://knyxx.github.io/NDND/tags/magic_items)
-- [Consumables](https://knyxx.github.io/NDND/tags/consumables)
-
-
+- [Magic Items](https://knyxx.github.io/NDND/tags/magic_item)
+- [Consumables](https://knyxx.github.io/NDND/tags/consumable)
 
