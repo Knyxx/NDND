@@ -4,10 +4,10 @@ aliases:
   - R.G.B
   - The Wandering Gardener
 tags:
-  - PC
-  - Warforged
-  - Druid
-  - Cleric
+  - pc
+  - warforged
+  - druid
+  - cleric
 publish: true
 ---
 

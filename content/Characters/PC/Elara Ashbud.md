@@ -2,10 +2,10 @@
 aliases:
   - Elara
 tags:
-  - PC
-  - Elf
-  - Ranger
-  - Ashbud
+  - pc
+  - elf
+  - ranger
+  - ashbud
 publish: true
 ---
 

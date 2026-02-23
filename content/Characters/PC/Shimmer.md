@@ -1,9 +1,9 @@
 ---
 tags:
-  - PC
-  - Human
-  - Rogue
-  - Thief
+  - pc
+  - human
+  - rogue
+  - thief
 publish: true
 ---
 

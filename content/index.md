@@ -9,15 +9,15 @@ publish: true
 
 #### People
 
-- [PC](https://knyxx.github.io/NDND/tags/PC)
-- [NPC](https://knyxx.github.io/NDND/tags/NPC)
+- [PC](https://knyxx.github.io/NDND/tags/pc)
+- [NPC](https://knyxx.github.io/NDND/tags/npc)
 
 #### Places
 - 
 
 #### Things
-- [Magic Items](https://knyxx.github.io/NDND/tags/MagicItems)
-- [Consumables](https://knyxx.github.io/NDND/tags/Consumables)
+- [Magic Items](https://knyxx.github.io/NDND/tags/magic_items)
+- [Consumables](https://knyxx.github.io/NDND/tags/consumables)
 
 
 

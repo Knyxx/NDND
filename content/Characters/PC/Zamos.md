@@ -3,10 +3,10 @@ aliases:
   - Zamos
   - Walker
 tags:
-  - PC
-  - Goliath
-  - Paladin
-  - OathOfVengence
+  - pc
+  - goliath
+  - paladin
+  - oath_of_vengence
 publish: true
 ---
 Zamos (_ZAY-Moss_)

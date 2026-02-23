@@ -3,11 +3,11 @@ aliases:
   - Wuskan
   - Dragon-Man
 tags:
-  - PC
-  - ChromaticDragonborn
-  - SandElf
-  - Sorcerer
-  - DraconicSorcery
+  - pc
+  - chromatic_dragonborn
+  - sand_elf
+  - sorcerer
+  - draconic_sorcery
 publish: true
 ---
 #### Names & Titles

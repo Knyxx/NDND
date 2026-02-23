@@ -2,10 +2,10 @@
 aliases:
   - Gar-ruk
 tags:
-  - PC
-  - Orc
-  - Fighter
-  - Oxfell
+  - pc
+  - orc
+  - fighter
+  - oxfell
 publish: true
 ---
 
