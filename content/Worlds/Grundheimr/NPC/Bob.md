@@ -12,8 +12,10 @@ publish: true
 ## Description
 ## Personality
 ## Known Information
-<!-- DM-ONLY-START -->
+<!-- DM-ONLY-START
+
 - True motives
 - Hidden relationships
 - Stat blocks
-<!-- DM-ONLY-END -->
+
+DM-ONLY-END -->
