@@ -298,7 +298,7 @@ Poison Vials are swift, situational consumables, designed to impose temporary co
 - When applied to a weapon or ammunition, the poison remains potent for 1 minute.
 - A creature affected by the poison must make a Constitution saving throw; on a failure, the poison takes effect.
 - If the target is unaware of the poison, it makes the saving throw with disadvantage.
-- Poisoner’s Expertise: If the user is proficient with a Poisoner’s Kit, add their proficiency bonus to the target’s Constitution saving throw DC.
+- Poisoner’s Expertise: If the target is proficient with a Poisoner’s Kit, add their proficiency bonus to the target’s Constitution saving throw DC.
 
 | Tier     | Save (CON) |
 | -------- | ---------- |
