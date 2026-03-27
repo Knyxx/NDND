@@ -1,11 +1,8 @@
 ---
 campaign:
   - shadows_over_sundralith
-publish: false
+publish: true
 ---
-
-> [!FAIL] Do Not Use
-> See [[Shadows over Sundralith House Rules]]
 
 ## Overview
 
@@ -25,14 +22,14 @@ publish: false
 - Use a clear signal to participate (raise hand, message, etc.).
 
 ### Limits
-- Absolute no: Sexual assault, drugging (see [[#Poison Vials]]).
+- Absolute no: Sexual assault and drugging for the purpose of.
 - Off-screen only: Severe mental distress
+This means that anything else can happen, though it does not mean it will.
 
 > [!ATTENTION] Lethality
 > This system is intentionally lethal. Characters are expected to die.
 
 ---
-
 ## Characters
 
 ### New Characters
@@ -56,7 +53,6 @@ publish: false
 - Delayed levels can be attempted at the next Long Rest.
 
 ---
-
 ## Gameplay
 
 ### Ability Checks & Difficulty
@@ -107,6 +103,23 @@ A character may push beyond normal limits to use a spell, ability, or action wit
 | 7th-8th                       | 5          | Speed reduced to 0              |
 | 9th                           | 6          | Death                           |
 
+### Play Style
+- The world is for the characters; the game is for the players.
+- No single “right” way to play; do not dominate the table.
+- Act freely, but do not undermine the party or take spotlight from others.
+
+#### Perspective
+- PC POV (default):
+	- Speak in character, or State intent (e.g. “Bob would do X”)
+- Above table:
+	- Used to plan, support, and keep the game moving
+	- Do not interrupt active scenes unless it adds to them
+
+#### Table Flow
+- Keep focus during active scenes.
+- Short breaks for jokes or reactions are expected.
+- Return to the scene once the moment passes.
+
 ### Resting
 Unless interrupted by danger, stress, or hostile conditions, characters may take the following rests.
 
@@ -135,7 +148,6 @@ Unless interrupted by danger, stress, or hostile conditions, characters may take
 - Strenuous activity interrupts a Short Rest.
 
 ---
-
 ## Combat
 
 ### Attack Roll
@@ -147,16 +159,13 @@ Unless interrupted by danger, stress, or hostile conditions, characters may take
 - Attack > AC: Attack hits for full damage.
 
 ### Combat Timers
-- Pre-combat discussion: Max 2 minutes.
-- Player turn duration: 60 seconds per turn.
-- Consequences for delays in turns (excl. clarifications):
-	- Prompt to hurry up
-	- Initiative drop
-	- Turn loss
+- Pre-combat discussion: 2 minutes.
+- Player turn duration: 30-60 seconds per turn.
+- Players prompted, if still unable to act, default to the Dodge action and end turn.
 
 > [!INFO] Time Consideration
 > 6 PC vs 4 NPC = 10 minutes per round.
-> Longest fight to date: 3 Undead Bears, 12 rounds.
+> 12 round fight = 2 hours.
 
 ### Flanking
 - If two allies are within 5 feet of the same target, you gain Advantage on attacks against that target.
@@ -170,7 +179,6 @@ Unless interrupted by danger, stress, or hostile conditions, characters may take
 - NPC allies who meaningfully contribute (alive or dead) share in XP.
 
 ---
-
 ## Crafting & Consumables
 
 ### Foraging
@@ -195,7 +203,6 @@ When no viable ingredients exist, this is immediately obvious and no time cost.
 | [[Ingredient (Very Rare)\|Very Rare]] | Strong, Prime     |
 | [[Ingredient (Legendary)\|Legendary]] | Potent, Deluxe    |
 | [[Ingredient (Artifact)\|Artifact]]   | Mythic, Exquisite |
-
 
 
 ### Herbal Phials
@@ -287,12 +294,11 @@ Poison Vials are swift, situational consumables, designed to impose temporary co
 
 #### Usage
 - Can be used as an Action and Bonus Action.
-- Can be delivered directly or applied to a weapon or a piece of ammunition as an Action or Bonus Action.
-- When applied to a weapon or a piece of ammunition, the poison remains effective for 1 minute.
-
-> [!ATTENTION] Poisons
-> - Poisons must be delivered visibly and contestably: the target has a reasonable opportunity to resist, evade, or respond.
-> - See [[#Limits]]
+- May be administered directly to a target, or applied to a weapon or piece of ammunition, using an Action or Bonus Action.
+- When applied to a weapon or ammunition, the poison remains potent for 1 minute.
+- A creature affected by the poison must make a Constitution saving throw; on a failure, the poison takes effect.
+- If the target is unaware of the poison, it makes the saving throw with disadvantage.
+- Poisoner’s Expertise: If the target is proficient with a Poisoner’s Kit, add their proficiency bonus to the target’s Constitution saving throw DC.
 
 | Tier     | Save (CON) |
 | -------- | ---------- |
@@ -310,10 +316,7 @@ Poison Vials are swift, situational consumables, designed to impose temporary co
 | Toxic Poison      | 2d6 + PB Poison Damage                          | [[Weak Toxic Poison Vial\|Weak]] [[Minor Toxic Poison Vial\|Minor]] [[Standard Toxic Poison Vial\|Standard]] [[Strong Toxic Poison Vial\|Strong]] [[Potent Toxic Poison Vial\|Potent]] [[Mythic Toxic Poison Vial\|Mythic]]                               |
 | Weakening Poison  | Disadvantage on Attack Rolls and Ability Checks | [[Weak Weakening Poison Vial\|Weak]] [[Minor Weakening Poison Vial\|Minor]] [[Standard Weakening Poison Vial\|Standard]] [[Strong Weakening Poison Vial\|Strong]] [[Potent Weakening Poison Vial\|Potent]] [[Mythic Weakening Poison Vial\|Mythic]]       |
 
-
-
 ---
-
 ## Glossary
 
 ### Gameplay

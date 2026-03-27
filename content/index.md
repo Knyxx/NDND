@@ -9,12 +9,12 @@ publish: true
 
 ### [[Shadows over Sundralith Intro|Shadows over Sundralith]]
 
-- [[TTRPG/NDND/Content/Campaigns/Shadows over Sundralith/Accords/House Rules|House Rules]]
+- [[Shadows over Sundralith House Rules|House Rules]]
 
 
-Fallen Peaks (WIP)
+### Fallen Peaks (WIP)
 
-- [[TTRPG/NDND/Content/Campaigns/Fallen Peaks/Accords/House Rules|House Rules]]
+- [[Fallen Peaks House Rules|House Rules]]
 
 
 
