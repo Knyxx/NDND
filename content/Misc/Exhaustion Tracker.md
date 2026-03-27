@@ -15,8 +15,8 @@ publish: true
 - 6 Charges.
 
 ## Usage
-- 'Expend charges' for each level of [[House Rules#Exhaustion|Exhaustion]].
-- Reset one level of Exhaustion per [[House Rules#Long Rest|Long Rest]].
+- 'Expend charges' for each level of [[TTRPG/NDND/Content/Campaigns/Shadows over Sundralith/Accords/House Rules#Exhaustion|Exhaustion]].
+- Reset one level of Exhaustion per [[TTRPG/NDND/Content/Campaigns/Shadows over Sundralith/Accords/House Rules#Long Rest|Long Rest]].
 
 ## Effects
 - For each Exhaustion Level: −2 to all D20 Tests and −5 ft Speed.

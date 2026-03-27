@@ -5,7 +5,7 @@ publish: false
 ---
 
 > [!FAIL] Do Not Use
-> See [[House Rules]]
+> See [[TTRPG/NDND/Content/Campaigns/Shadows over Sundralith/Accords/House Rules]]
 
 ## Overview
 
