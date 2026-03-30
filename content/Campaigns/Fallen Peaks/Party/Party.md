@@ -8,10 +8,11 @@ publish: false
 
 ## Party
 
-- PC - [[Rockgnome]] [[Artificer]]
-- PC - [[Half-Orc]] [[Cleric]]
-- PC - [[Elf]] [[Bard]]
-- PC - [[Tabaxi]] [[Barbarian]]
+- Initial party:
+	- [[Cal Copperpocket]] - Rockgnome Artificer
+	- [[Grog]] - Half-Orc Cleric
+	- [[Vulkarian Serion]] - Elf Bard
+	- [[Mama Bear]] - Shifter Barbarian
 
 
 
