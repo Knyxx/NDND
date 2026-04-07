@@ -22,3 +22,5 @@ publish: true
 - For each Exhaustion Level: −2 to all D20 Tests and −5 ft Speed.
 - At Exhaustion Level 6, Death.
 
+
+

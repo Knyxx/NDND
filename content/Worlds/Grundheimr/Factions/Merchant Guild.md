@@ -9,22 +9,18 @@ publish: true
 ---
 
 ## Description
-
 Founded in 485 AD, the Merchant Guild of Sundralith is a sprawling network of traders and financiers controlling the flow of goods across the continent. Originally established to protect caravans and standardize trade, the guild has grown into a powerful institution capable of shaping regional economies and politics. Its reputation blends diplomacy with ruthless efficiency, ensuring both influence and profit.
 
 ## Points of Interest
-
 - Njordsgarde – Established in 498 AD within an ancient, legendary vault carved from bedrock. The guild retrofitted it with reinforced walls, battlements, and hidden chambers, creating a near-impervious stronghold. Secret tunnels and magical wards safeguard both goods and sensitive documents.
 - Caravan Waystations – Inns and warehouses strategically placed along key trade routes, providing shelter, protection, and logistical support for guild caravans.
 - [[Mistfield Clearing]] Outpost – A smaller semi-permanent outpost where a guild representative and scribe meet with local merchants and travellers, handling contracts, correspondence, and trade documentation.
 
 ## Connections
-
 - Local nobility and adventurers, occasionally called upon for protection or influence.
 - Agents who travel covertly to manage sensitive situations, enforce contracts, and protect guild interests.
 
 ## Members
-
 - [[Alvar Kestrel]]
 - [[Lyria Doss]]
 

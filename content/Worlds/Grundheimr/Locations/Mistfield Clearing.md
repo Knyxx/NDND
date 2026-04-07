@@ -13,7 +13,7 @@ publish: true
 - A small fortified settlement in the [[Jade Peaks]] serving as a safe rest for trade caravans, traveling groups, and visiting clans.
 - Perched on a strategic plateau at the edge of forested hills and river valleys, it is enclosed by a wooden palisade and a cleared perimeter.
 - The village is often shrouded in mist, lending an air of vigilance and quiet tension.
-- Its open mustering area, market, and [[merchant guild]] office make it a hub of trade, while the keep and watch maintain defence against bandits, predators, and the mysterious forces of the mountains.
+- Its open mustering area, market, and [[Merchant Guild]] office make it a hub of trade, while the keep and watch maintain defence against bandits, predators, and the mysterious forces of the mountains.
 - Over decades it has grown into a modest artisan and trading community, balancing the needs of its permanent residents with those of travellers and semi-permanent clan visitors.
 
 ## Points of Interest
@@ -72,7 +72,7 @@ publish: true
 - Barns / Stables
 	- Halda Stonehoof
 		- Skilled horse handler, no-nonsense, trusted with livestock and pack animals.
-		- Role: Can provide mounts, knowledge of terrain, or clues via animal behavior.
+		- Role: Can provide mounts, knowledge of terrain, or clues via animal behaviour.
 - Gardens & Herb Plots
 	- Nira Leafshade
 		- Knowledgeable herbalist, eccentric, keeps both medicinal and magical herbs.
@@ -85,5 +85,5 @@ publish: true
 -->
 
 
-![[Mistfield Clearing.png|400]]
+![[Mistfield Clearing.png]]
 

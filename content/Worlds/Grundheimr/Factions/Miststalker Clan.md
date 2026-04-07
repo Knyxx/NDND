@@ -24,14 +24,13 @@ publish: true
 
 ## Connections
 
-- Other Jade Peaks Clans: Respected, but viewed with suspicion due to the Miststalkers’ secrecy.
+- Other [[Jade Peaks]] Clans: Respected, but viewed with suspicion due to the Miststalkers’ secrecy.
 - Caravans & Outsiders: Rarely tolerated unless guided, invited, or paying tribute.
 - Local Settlements: Minimal contact, though rumours persist of quiet trade in herbs, pelts, and information.
 
 ## Members
-
-- [[]]
-- [[]]
+- [[Talon Whisperstep]]
+- [[Veyra Mistclaw]]
 
 <!-- DM-ONLY
 
@@ -46,3 +45,5 @@ publish: true
 - Maintain clan traditions and ensure each generation earns their place.
 
 -->
+
+

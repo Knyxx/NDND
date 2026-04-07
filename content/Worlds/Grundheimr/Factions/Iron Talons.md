@@ -18,14 +18,13 @@ publish: true
 
 ## Connections
 - 
-
+-->
 ## Members
 - Kaelin Firestride
 - Tharok Ironjaw
 - Selara Moonwhisper
 - Ravik Stormcall
 
--->
 <!-- DM-ONLY
 
 ## Unknown Members
